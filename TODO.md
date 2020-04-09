@@ -7,9 +7,9 @@ This is a list of what we are planning on adding in the future. If something is 
 - Add [benjamimgois / GOverlay](https://github.com/benjamimgois/goverlay)
 - Add [DadSchoorse / vkBasalt](https://github.com/DadSchoorse/vkBasalt)
 - Add AMD GPU hacks
-	- [ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)
-	- [Custom Xorg configuration (eliminate screen tearing)](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)
-	- [Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)
+	- ~~[ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)~~
+	- ~~[Custom Xorg configuration (eliminate screen tearing)](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)~~
+	- ~~[Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)~~
 - Add Nvidia GPU hacks
 	- [Reference Arch wiki: NVIDIA / Tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks)
 - Custom kernel

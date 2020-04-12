@@ -4,11 +4,37 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 
 ## Table of contents
 
-- [AMD](#amd)
-	- [ACO compiler](#aco-compiler)
-	- [Custom Xorg configuration](#custom-xorg-configuration)
-- [Intel](#intel)
-- [Nvidia](#nvidia)
+- [Utilities](#utilities)
+- [CPU](#cpu)
+	- [AMD](#amd)
+	- [Intel](#intel)
+- [GPU](#gpu)
+	- [AMD](#amd-1)
+		- [ACO compiler](#aco-compiler)
+		- [Custom Xorg configuration](#custom-xorg-configuration)
+	- [Intel](#intel-1)
+	- [Nvidia](#nvidia)
+- [F.A.Q.](#faq)
+- [Future plans](#future-plans)
+
+# Utilities
+
+[**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
+
+[**flightlessmango / MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+
+[**DadSchoorse / vkBasalt**](https://github.com/DadSchoorse/vkBasalt) — A Vulkan post processing layer to enhance the visual graphics of games while barely impacting performance.
+
+[**benjamimgois / GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as MangoHud and vkBasalt.
+
+
+# CPU
+
+## AMD
+
+## Intel
+
+# GPU
 
 ## AMD
 
@@ -28,6 +54,9 @@ Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freed
 Instructions will be found in:
 
 - [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)
+
+For those that want to look more into Xorg configurations, you can look into:
+
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 
@@ -41,9 +70,19 @@ You can find instructions to overclock in the [Arch wiki](https://wiki.archlinux
 
 ## Intel
 
-### Nvidia
+## Nvidia
 
 
-## Future plans
+# F.A.Q.
+
+**Q.1** Why create this repository?
+
+**A.1** Because there were no website or repository that had tips & tricks and resources for GNU/Linux gaming in one place. There are a lot of cool projects, like ACO, that should be well known.
+
+**Q.2** Why GitLab over GitHub?
+
+**A.2** Because fuck Microshit
+
+# Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).

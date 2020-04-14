@@ -6,11 +6,18 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [flightlessmango / MangoHud](https://github.com/flightlessmango/MangoHud)~~
 - ~~Add [benjamimgois / GOverlay](https://github.com/benjamimgois/goverlay)~~
 - ~~Add [DadSchoorse / vkBasalt](https://github.com/DadSchoorse/vkBasalt)~~
-- Add AMD GPU hacks
+- Add [Proton](https://github.com/ValveSoftware/Proton)
+- Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
+- Add [WINE](https://www.winehq.org/)
+- Add [Lutris](https://lutris.net/)
+- Add Development
+	- Add [Godot](https://godotengine.org/)
+	- Add [Blender](https://www.blender.org/)
+- Add AMD GPU
 	- ~~[ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)~~
 	- ~~[Custom Xorg configuration (eliminate screen tearing)](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)~~
 	- ~~[Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)~~
-- Add Nvidia GPU hacks
+- Add Nvidia GPU
 	- [Reference Arch wiki: NVIDIA / Tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks)
 - Custom kernel
 	- [CK patchsets](http://ck.kolivas.org/)
@@ -18,5 +25,7 @@ This is a list of what we are planning on adding in the future. If something is 
 	- [Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)
 - Add references
 	- https://www.icculus.org/lgfaq/gamelist.php
+	- https://www.gigablast.com/Top/Games/Video_Games/
+	- https://osgameclones.com/
 - ~~Add F.A.Q.~~
 - ~~Add Future plans~~

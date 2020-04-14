@@ -20,7 +20,7 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 - [Lutris](#lutris)
 - [WINE](#wine)
 - [Emulators](#emulators)
-	- [Dolphin]
+	- [Dolphin](#dolphin)
 - [F.A.Q.](#faq)
 - [Future plans](#future-plans)
 
@@ -87,7 +87,7 @@ Steam is a video game digital distribution service by Valve.
 Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 
 # WINE
-Wine is a free and open-source compatibility layer that aims to allow computer programs developed for Microsoft Windows to run on Unix-like operating systems.
+Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems such as Linux, macOS, & BSD.
 
 # Emulators
 

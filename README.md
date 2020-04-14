@@ -2,7 +2,7 @@
 
 A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. Inspired by [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) and other awesome-related projects.
 
-**Disclaimer**: It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions soley because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred for the newcommer.
+**Disclaimer**: It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
 
 ## Table of contents
 
@@ -16,6 +16,11 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 		- [Custom Xorg configuration](#custom-xorg-configuration)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
+- [Steam](#steam)
+- [Lutris](#lutris)
+- [WINE](#wine)
+- [Emulators](#emulators)
+	- [Dolphin]
 - [F.A.Q.](#faq)
 - [Future plans](#future-plans)
 
@@ -75,15 +80,29 @@ You can find instructions to overclock in the [Arch wiki](https://wiki.archlinux
 ## Nvidia
 
 
+# Steam
+Steam is a video game digital distribution service by Valve.
+
+# Lutris
+Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
+
+# WINE
+Wine is a free and open-source compatibility layer that aims to allow computer programs developed for Microsoft Windows to run on Unix-like operating systems.
+
+# Emulators
+
+### Dolphin
+Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! 
+
 # F.A.Q.
 
 **Q.1** Why create this repository?
 
-**A.1** Because there were no website or repository that had tips & tricks and resources for GNU/Linux gaming in one place. There are a lot of cool projects, like ACO, that should be well known.
+**A.1** The reason behind this action could be explained by the lack of repositories which has managed to unite tips & tricks and resources regarding GNU/Linux gaming in one repository with the aim of reducing the amount of search queries required by the user to look up certain information regarding the situation of a game on Linux, how to emulate specific games and so on. There are a lot of interesting projects, such as ACO, which we deem worthy of fame and have thus included those in this repo.
 
 **Q.2** Why GitLab over GitHub?
 
-**A.2** Because fuck Microshit
+**A.2** Because we do not !
 
 # Future plans
 

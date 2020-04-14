@@ -102,7 +102,7 @@ Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube
 
 **Q.2** Why GitLab over GitHub?
 
-**A.2** Because we do not !
+**A.2** Due to the recent change of ownership to GitHub, the open source project hosting service, to Microsoft, we have decided not to maintain the following repository on their server. The reasoning behind the following action could be explained by Microsoft's behaviour towards the open source community for the past decade and thus we concluded to refrain from using GitHub as the host of the this repository.
 
 # Future plans
 

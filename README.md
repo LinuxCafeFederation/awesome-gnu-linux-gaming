@@ -13,7 +13,8 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 - [GPU](#gpu)
 	- [AMD](#amd-1)
 		- [ACO compiler](#aco-compiler)
-		- [Custom Xorg configuration](#custom-xorg-configuration)
+		- [Xorg](#xorg)
+			- [Eliminate screen tearing](#eliminate-screen-tearing)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Steam](#steam)
@@ -54,18 +55,55 @@ The [ACO compiler](https://steamcommunity.com/games/221410/announcements/detail/
 
 You can enable the ACO compiler by [exporting `RADV_PERFTEST=aco`](https://wiki.archlinux.org/index.php/Environment_variables).
 
-### Custom Xorg configuration
+### Xorg
 
-Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of the being screen tearing. It is advisable to create xorg.conf file in order to remove some issues.
+Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.
 
-Instructions will be found in:
+#### Eliminate screen tearing
 
-- [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)
+You will have to create a file in `/etc/X11/xorg.conf.d/` and enable the `TearFree` option. To do so, follow the example:
+
+```ini
+/etc/X11/xorg.conf.d/99-amdgpu.conf
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+Section "Device"
+     Identifier "AMD"
+     Driver "amdgpu"
+     Option "TearFree" "true"
+  EndSection
+```
+
+Then, log back in, and enjoy the tear free rendering!
+
+#### FreeSync
+
+[FreeSync](https://en.wikipedia.org/wiki/FreeSync) is a technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
+
+This feature, however, is only available if your [**monitor is compatible with FreeSync**](https://www.amd.com/en/products/freesync-monitors), as well as if your [**GPU is compatible with FreeSync**](https://www.amd.com/en/technologies/free-sync-faq#faq-Which-products-support-AMD-FreeSync%E2%84%A2-technology?).
+
+If you are using a laptop, you can check if your [**laptop is compatible with FreeSync**](https://www.amd.com/en/products/freesync-laptops).
+
+If you have the requirements, you can simply enable the `VariableRefresh` option. To do so, follow the example:
+
+```ini
+/etc/X11/xorg.conf.d/99-amdgpu.conf
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+Section "Device"
+     Identifier "AMD"
+     Driver "amdgpu"
+     Option "VariableRefresh" "true"
+  EndSection
+```
+
+Then, log back in, and enjoy your FreeSync enabled gaming!
+
+#### Others
 
 For those that want to look more into Xorg configurations, you can look into:
 
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
+- [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
 
 ### Overclocking
 

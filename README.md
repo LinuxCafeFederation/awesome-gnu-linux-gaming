@@ -63,7 +63,7 @@ Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freed
 
 You will have to create a file in `/etc/X11/xorg.conf.d/` and enable the `TearFree` option. To do so, follow the example:
 
-```ini
+```
 /etc/X11/xorg.conf.d/99-amdgpu.conf
 ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 Section "Device"
@@ -85,7 +85,7 @@ If you are using a laptop, you can check if your [**laptop is compatible with Fr
 
 If you have the requirements, you can simply enable the `VariableRefresh` option. To do so, follow the example:
 
-```ini
+```
 /etc/X11/xorg.conf.d/99-amdgpu.conf
 ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 Section "Device"

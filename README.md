@@ -16,6 +16,8 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 		- [Xorg](#xorg)
 			- [Eliminate screen tearing](#eliminate-screen-tearing)
 			- [FreeSync](#freesync)
+			- [Others](#others)
+		- [Overclocking](#overclocking)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Steam](#steam)
@@ -100,7 +102,7 @@ Then, log back in, and enjoy your FreeSync enabled gaming!
 
 #### Others
 
-For those that want to look more into Xorg configurations, you can look into:
+If you want to explore into the Xorg configuration options, you can look into:
 
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)

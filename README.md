@@ -15,6 +15,7 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 		- [ACO compiler](#aco-compiler)
 		- [Xorg](#xorg)
 			- [Eliminate screen tearing](#eliminate-screen-tearing)
+			- [FreeSync](#freesync)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Steam](#steam)

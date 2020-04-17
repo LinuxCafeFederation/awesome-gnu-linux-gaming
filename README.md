@@ -57,12 +57,7 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 
 ### ACO compiler
 
-The [ACO compiler](https://steamcommunity.com/games/221410/announcements/detail/1602634609636894200) is an open source shader compiler created and developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to directly compete with the LLVM compiler, the AMDVLK drivers, as well as Windows 10. It offers lesser compilation time and also performs better while gaming than LLVM and AMDVLK.
-
-(Sources from [It's FOSS](https://itsfoss.com/linux-games-performance-boost-amd-gpu/), [Laboratoryo Neil](https://youtu.be/p7usPG4Ay34), Phoronix[[1](https://www.phoronix.com/scan.php?page=article&item=radv-aco-llvm&num=1)][[2](https://www.phoronix.com/scan.php?page=article&item=radv-aco-gcn10&num=1)][[3](https://www.phoronix.com/scan.php?page=article&item=mesa20radv-aco-amdvlk&num=1)])
-
-
-You can enable the ACO compiler by [exporting `RADV_PERFTEST=aco`](https://wiki.archlinux.org/index.php/Environment_variables).
+You can find instructions to enable and utilise the ACO compiler in the [Arch wiki](https://wiki.archlinux.org/index.php/Gaming#ACO_compiler).
 
 ### Xorg
 

@@ -30,7 +30,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
 - [Emulators](#emulators)
-		- [Dolphin](#dolphin)
+	- [Dolphin](#dolphin)
 - [F.A.Q.](#faq)
 - [Future plans](#future-plans)
 

@@ -18,12 +18,10 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 	- [Intel](#intel)
 - [GPU](#gpu)
 	- [AMD](#amd-1)
-		- [ACO compiler](#aco-compiler)
 		- [Xorg](#xorg)
 			- [Eliminate screen tearing](#eliminate-screen-tearing)
 			- [FreeSync](#freesync)
 			- [Others](#others)
-		- [Overclocking](#overclocking)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Gaming platforms](#gaming-platforms)
@@ -60,7 +58,9 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 ## AMD
 
-### [ACO compiler](https://wiki.archlinux.org/index.php/Gaming#ACO_compiler)
+[**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporations](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
+
+[**Overclocking**](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking) — Guide to overclock an AMD GPU using the AMDGPU drivers.
 
 ### Xorg
 
@@ -111,8 +111,6 @@ If you want to explore into the Xorg configuration options, you can look into:
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
-
-### [Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)
 
 ## Intel
 

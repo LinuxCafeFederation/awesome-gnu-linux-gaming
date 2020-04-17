@@ -55,9 +55,7 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 
 ## AMD
 
-### ACO compiler
-
-You can find instructions to enable and utilise the ACO compiler in the [Arch wiki](https://wiki.archlinux.org/index.php/Gaming#ACO_compiler).
+### [ACO compiler](https://wiki.archlinux.org/index.php/Gaming#ACO_compiler)
 
 ### Xorg
 
@@ -109,13 +107,7 @@ If you want to explore into the Xorg configuration options, you can look into:
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
 
-### Overclocking
-
-Overclocking your graphics card often yields to superior performance, at the cost of lifespan.
-
-**Warning: you are on your own if you create a nuclear bomb.**
-
-You can find instructions to overclock in the [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking).
+### [Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)
 
 ## Intel
 

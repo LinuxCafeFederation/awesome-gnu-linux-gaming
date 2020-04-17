@@ -6,6 +6,8 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 
 ## Table of contents
 
+- [Awesome GNU/Linux gaming ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-gnulinux-gaming-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+	- [Table of contents](#table-of-contents)
 - [Utilities](#utilities)
 - [CPU](#cpu)
 	- [AMD](#amd)
@@ -20,11 +22,15 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 		- [Overclocking](#overclocking)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
-- [Steam](#steam)
-- [Lutris](#lutris)
-- [WINE](#wine)
+- [Gaming platforms](#gaming-platforms)
+	- [Steam](#steam)
+		- [Arch Linux](#arch-linux)
+	- [Lutris](#lutris)
+		- [Arch Linux](#arch-linux-1)
+	- [WINE](#wine)
+		- [Arch Linux](#arch-linux-2)
 - [Emulators](#emulators)
-	- [Dolphin](#dolphin)
+		- [Dolphin](#dolphin)
 - [F.A.Q.](#faq)
 - [Future plans](#future-plans)
 
@@ -120,15 +126,47 @@ You can find instructions to overclock in the [Arch wiki](https://wiki.archlinux
 
 ## Nvidia
 
+# Gaming platforms
 
-# Steam
-Steam is a video game digital distribution service by Valve.
+## Steam
+Steam is a video game digital distribution service by Valve. On August 21, 2018 Valve released a newly developed project with the name `Proton`; a project based on a fork of WINE aiming to improve the current gaming situation on Linux. Proton is a mostly free and open-source compatibility layer that allows software designed for Microsoft Windows to run on Linux-based operating systems.
 
-# Lutris
+### Arch Linux
+To install steam on `Arch Linux` one has to install the required packages and later optimize steam for running Windows architectured games on Linux.
+
+The process for an AMD based device could be achieved as follow:
+1. Enable multilib repositories by excluding the `#` affront of `[multilib]` and `#include` found in `/etc/pacman.conf`.
+
+The process mentioned above should look as follows: 
+   1. `nano/vim /etc/pacman.conf` (choose your desired editor).
+   2.  
+	```
+   	[multilib]
+	Include = /etc/pacman.d/mirrorlist
+	```
+	3. Make sure to run `sudo pacman -Syu` after enabling the `multilib` repositories found in `pacman.conf`.
+
+1. Install the missing packages from your Arch Linux installation. **It should be understood that the packages listed below are not indented to be installed on one functional Linux system**, but rather for the user to select the suitable packages required by his/her system to later install.
+   1. `steam ttf-liberation wqy-zenhei lib32-mesa mesa xf86-video-amdgpu/xf86-video-ati/xf86-video-intel/xf86-video-nouveau`.
+   2. In the following example it is shown how an installation of steam would look like on a laptop running on AMDGPU: `sudo pacman -Sy steam ttf-liberation wqy-zenhei lib32-mesa mesa xf86-video-amdgpu`
+
+2. Run `Steam (Runtime)`, open up the settings window and later enable `Steam Play` through the Steam Play category.
+
+## Lutris
 Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 
-# WINE
+### Arch Linux
+The installation of Lutris is rather simple compared to Steam and thus the users has to attempt the installation of the package alone and wait for it to finish the installation. This could be achieved with the help of running the following command: `sudo pacman -Sy lutris`.
+
+It's worth mentioning that the installation of Lutris is not the complex part of running the software, but the installation of games through Lutris could be thought of as more complex as one would hope for. The installation of League of Legends on Linux through Lutris is a good example of such task. 
+
+## WINE
 Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems such as Linux, macOS, & BSD.
+
+### Arch Linux
+The installation of WINE varries between a stable/testing package and could thus be installed, if one desires a stable WINE installation, through the following command: `sudo pacman -S wine wine-gecko wine-mono`, where the `wine-gecko wine-mono` are packages required by applications dependent on `IE` and `.NET`.
+
+To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
 
 # Emulators
 

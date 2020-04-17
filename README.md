@@ -8,10 +8,8 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 **Disclaimer**: It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
 
-## Table of contents
+# Table of contents
 
-- [Awesome GNU/Linux gaming ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-gnulinux-gaming-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
-	- [Table of contents](#table-of-contents)
 - [Utilities](#utilities)
 - [CPU](#cpu)
 	- [AMD](#amd)

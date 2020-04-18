@@ -11,10 +11,10 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 # Table of contents
 
 - [Utilities](#utilities)
-- [CPU](#cpu)
+- [Processors](#processors)
 	- [AMD](#amd)
 	- [Intel](#intel)
-- [GPU](#gpu)
+- [Graphics cards](#graphics-cards)
 	- [AMD](#amd-1)
 		- [Xorg](#xorg)
 			- [Eliminate screen tearing](#eliminate-screen-tearing)
@@ -31,7 +31,8 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 		- [Arch Linux](#arch-linux-2)
 - [Emulators](#emulators)
 	- [Dolphin](#dolphin)
-- [F.A.Q.](#faq)
+- [Developers](#developers)
+- [Q&As](#qas)
 - [Future plans](#future-plans)
 
 # Utilities
@@ -46,19 +47,27 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of X11 or XWayland. **(Arch derivatives only!)**
 
-# CPU
+# Processors
 
 ## AMD
+
+[**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
+
+[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Adjust core clock and voltage of Ryzen processors; front-end for [RyzenAdj](https://github.com/FlyGoat/RyzenAdj).
 
 ## Intel
 
-# GPU
+# Graphics cards
 
 ## AMD
+
+### **NOTE: this is only for the AMDGPU drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
 [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporations](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 
 [**Overclocking**](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking) — Guide to overclock an AMD GPU using the AMDGPU drivers.
+
+[**sibradzic / amdgpu-clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
 ### Xorg
 
@@ -161,15 +170,33 @@ To install a more up-to-date version of wine, one has to replace wine with `wine
 ### Dolphin
 Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! 
 
-# F.A.Q.
+# Developers
 
-**Q.1** Why create this repository?
+[**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
 
-**A.1** The reason behind this action could be explained by the lack of repositories which has managed to unite tips & tricks and resources regarding GNU/Linux gaming in one repository with the aim of reducing the amount of search queries required by the user to look up certain information regarding the situation of a game on Linux, how to emulate specific games and so on. There are a lot of interesting projects, such as ACO, which we deem worthy of fame and have thus included those in this repo.
+# Q&As
 
-**Q.2** Why GitLab over GitHub?
+### Why create this repository?
 
-**A.2** Due to the recent change of ownership to GitHub, the open source project hosting service, to Microsoft, we have decided not to maintain the following repository on their server. The reasoning behind the following action could be explained by Microsoft's behaviour towards the open source community for the past decade and thus we concluded to refrain from using GitHub as the host of the this repository.
+The reason behind this action could be explained by the lack of repositories which has managed to unite tips & tricks and resources regarding GNU/Linux gaming in one repository with the aim of reducing the amount of search queries required by the user to look up certain information regarding the situation of a game on Linux, how to emulate specific games and so on. There are a lot of interesting projects, such as ACO, which we deem worthy of fame and have thus included those in this repo.
+
+### Why GitLab over GitHub?
+
+Due to the recent change of ownership to GitHub, the open source project hosting service, to Microsoft, we have decided not to maintain the following repository on their server. The reasoning behind the following action could be explained by Microsoft's behaviour towards the open source community for the past decade and thus we concluded to refrain from using GitHub as the host of the this repository.
+
+In short: f*ck Microshit. I want my freedom.
+
+### Why put "*username / gitPage*" instead of only "*gitPage*" for project repositories?
+
+Because I highly dislike to not credit the maintainers.
+
+### Why not just contribute to the Arch wiki?
+
+Because the Arch wiki does not get enough attention. I did contribute in the Arch wiki, but I realised that not many people look into it. Here is an example of a [Reddit thread I have replied before](https://www.reddit.com/r/linux_gaming/comments/fyuqc7/a_fantastic_amd_gpu_gui_software_for_linux/fn2723y?utm_source=share&utm_medium=web2x).
+
+#### Why not just promote it then?
+
+Because the Arch wiki has been promoted by many youtubers, and it is also a meme for the epicc arch linux users btw xdddddddddddddd!1!11
 
 # Future plans
 

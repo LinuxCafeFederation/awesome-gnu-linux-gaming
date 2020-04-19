@@ -6,7 +6,9 @@ A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. 
 
 This is a hobby project to improve the quality of gaming in Linux because it is possible to improve performance by tweaking your Linux machine. Most Linux distributions have a lot of issues when it comes to gaming performance, as they do not utilise the modern and superior counterparts.
 
-**Disclaimer**: It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
+## **Disclaimer**
+
+It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
 
 # Table of contents
 
@@ -31,8 +33,27 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 		- [Arch Linux](#arch-linux-2)
 - [Emulators](#emulators)
 - [Developers](#developers)
+- [YouTube channels](#youtube-channels)
 - [Q&As](#qas)
 - [Future plans](#future-plans)
+
+# Distributions
+
+*From simplest to complex.*
+
+~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](#why-not-add-manjaro).***
+
+[**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
+
+[**Fedora**](https://getfedora.org/) — Based on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux). Comes with some performance tools pre-installed such as [**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode).
+
+[**Alpine Linux**](https://www.alpinelinux.org/) — Minimal, simple and secure binary based distribution aimed for performance.
+
+[**Arch Linux**](https://www.archlinux.org/) — Lightweight and independent distribution to provide as much performance with as less time spent.
+
+[**Clear Linux**](https://clearlinux.org/) — Independent distribution by [Intel](https://en.wikipedia.org/wiki/Intel) with various [patches](https://github.com/clearlinux-pkgs/linux) aimed for performance.
+
+[**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
 # Utilities
 
@@ -52,7 +73,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
 
-[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Adjust core clock and voltage of Ryzen processors; front-end for [RyzenAdj](https://github.com/FlyGoat/RyzenAdj).
+[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Adjust core clock and voltage of Ryzen processors; front-end for [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj).
 
 ## Intel
 
@@ -174,6 +195,10 @@ To install a more up-to-date version of wine, one has to replace wine with `wine
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
 
 
+# YouTube channels
+
+**FlightlessMango** — https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w
+
 # Q&As
 
 ### Why create this repository?
@@ -198,6 +223,26 @@ Because the Arch wiki does not get enough attention. I did contribute in the Arc
 
 Because the Arch wiki has been promoted by many youtubers, and it is also a meme for the epicc arch linux users btw xddd!1!11
 
+### Why not add Manjaro?
+
+Because Manjaro sucks.
+
+- **Incompetent developers**
+	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency
+		- https://rentry.co/manjaro-controversies
+		- https://github.com/vizs/manjarno
+- **Bad security**
+	- Manjaro does not have a security policy enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions: https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757. They then [reply](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) and have the audacity to say that it does not matter.
+	- Manjaro holds back packages for several weeks, including security patches, which makes security updates come a couple of weeks later, which makes it even more insecure: http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
+- **Instability and bugs that are non-existant in Arch**
+	- Arch is already unstable, but Manjaro takes the instability two steps further and produces more bugs that are/were never present in Arch. Here are some examples of people having issues with Pipewire in Manjaro, which was non-existent in Arch:
+		- https://forum.manjaro.org/t/after-upgrade-no-sound-pipewire-100-cpu-load-system-freeze/131580
+		- https://forum.manjaro.org/t/troubleshooting-random-system-freeze/106554
+		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
+- **Dishonesty**
+	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
+	- In their [website](https://manjaro.org/): ```Manjaro is not a consumer-oriented operating system. You have full control and you will not be prevented from breaking your own installation [...]``` They tell you that you have full control of the system, which is not true because you cannot use other init systems for example, since they have been deprecated
+		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
 # Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).

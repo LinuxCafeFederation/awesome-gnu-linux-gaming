@@ -228,7 +228,7 @@ Because the Arch wiki has been promoted by many youtubers, and it is also a meme
 Because Manjaro sucks.
 
 - **Incompetent developers**
-	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency
+	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:
 		- https://rentry.co/manjaro-controversies
 		- https://github.com/vizs/manjarno
 - **Bad security**
@@ -241,7 +241,7 @@ Because Manjaro sucks.
 		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
 - **Dishonesty**
 	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
-	- In their [website](https://manjaro.org/): ```Manjaro is not a consumer-oriented operating system. You have full control and you will not be prevented from breaking your own installation [...]``` They tell you that you have full control of the system, which is not true because you cannot use other init systems for example, since they have been deprecated
+	- In their [website](https://manjaro.org/): ```Manjaro is not a consumer-oriented operating system. You have full control and you will not be prevented from breaking your own installation [...]``` They tell you that you have full control of the system, which is not true because you cannot use other init systems for example, since they have been deprecated:
 		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
 # Future plans
 

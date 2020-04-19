@@ -30,10 +30,6 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
 - [Emulators](#emulators)
-	- [Dolphin](#dolphin)
-	- [ZSNES](#zsnes)
-	- [UAE](#uae)
-	- [MAME](#mame)
 - [Developers](#developers)
 - [Q&As](#qas)
 - [Future plans](#future-plans)
@@ -168,23 +164,15 @@ The installation of WINE varries between a stable/testing package and could thus
 
 To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
 
+
 # Emulators
-##### This section requires improving
-### Dolphin
-Dolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more! [Dolphin Website](https://dolphin-emu.org) 
 
-### ZSNES
-ZSNES is a Super Nintendo Entertainment System emulator, it can be used to play any SNES game (with Mode7 and SuperFX support too!). [ZSNES Website](https://zsnes.com)
-
-### UAE
-UAE is a Commodore Amiga emulator, it supports playing all Amiga games and even emulating the original AmigaOS! [UAE Website](https://fs-uae.net)
-
-### MAME
-MAME is an arcade system emulator with the intention of preserving gaming history and preventing vintage games from being forgotten or lost, it can play a big majority of systems with good stability and speed! [MAME Website](https://mamedev.org)
+[**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
 # Developers
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
+
 
 # Q&As
 
@@ -208,7 +196,7 @@ Because the Arch wiki does not get enough attention. I did contribute in the Arc
 
 #### Why not just promote it then?
 
-Because the Arch wiki has been promoted by many youtubers, and it is also a meme for the epicc arch linux users btw xdddddddddddddd!1!11
+Because the Arch wiki has been promoted by many youtubers, and it is also a meme for the epicc arch linux users btw xddd!1!11
 
 # Future plans
 

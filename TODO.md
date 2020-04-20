@@ -22,7 +22,7 @@ This is a list of what we are planning on adding in the future. If something is 
 	- [Reference Arch wiki: NVIDIA / Tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks)
 - Custom kernel
 	- [CK patchsets](http://ck.kolivas.org/)
-	- [ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)
+	- ~~[ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)~~ (sorta)
 	- [Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)
 - Add references
 	- https://www.icculus.org/lgfaq/gamelist.php

@@ -12,6 +12,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Table of contents
 
+- [Distributions](#distributions)
 - [Utilities](#utilities)
 - [Processors](#processors)
 	- [AMD](#amd)
@@ -31,6 +32,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Arch Linux](#arch-linux-1)
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
+- [Custom kernels](#custom-kernels)
+    - [ZEN/Liquorix](#zenliquorix)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)
@@ -150,9 +153,17 @@ The installation of WINE varries between a stable/testing package and could thus
 To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
 
 
+# Custom kernels
+
+[**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+- **Debian**/***buntu** — https://liquorix.net/#install
+- **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
+- **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
+
 # Emulators
 
 [**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
+
 
 # Developers
 

@@ -33,7 +33,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Arch Linux](#arch-linux-2)
 - [Custom Kernels](#Custom-kernels)
     - [ZEN/Liquorix](#Zen/Liquorix)
-        -[Pop!_OS](Pop!_OS)
+        - [Pop!_OS](Pop!_OS)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)
@@ -195,7 +195,7 @@ To install a more up-to-date version of wine, one has to replace wine with `wine
 
 # Custom Kernels
 
-## ZEN/Liquorix Kernel
+## ZEN/Liquorix
 ZEN/Liquorix kernels is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 However Liquorix aren't the exact same kernels due to Liquorix being based on ZEN and specially optimized for Debian and Debian based distibutions.
 Some of their major features are "Hard Kernel Preemption", "TCP BBR Congestion Control" and "Zen Interactive Tuning".

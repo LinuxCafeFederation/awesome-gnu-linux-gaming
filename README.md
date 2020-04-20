@@ -32,9 +32,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Arch Linux](#arch-linux-1)
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
-- [Custom Kernels](#custom-kernels)
+- [Custom kernels](#custom-kernels)
     - [ZEN/Liquorix](#zenliquorix)
-        - [Pop!_OS](pop!_os)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)
@@ -85,7 +84,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ## AMD
 
-### **NOTE: this is only for the AMDGPU drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
+**NOTE: this is only for the AMDGPU drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
 [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporations](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 
@@ -95,47 +94,11 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ### Xorg
 
-Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.
+**Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
 
-#### Eliminate screen tearing
+[**TearFree**](/XORG.md#tearfree) — Enable tearing prevention using the hardware page flipping mechanism.
 
-You will have to create a file in `/etc/X11/xorg.conf.d/` and enable the `TearFree` option. To do so, follow the example:
-
-```
-/etc/X11/xorg.conf.d/99-amdgpu.conf
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
-Section "Device"
-     Identifier "AMD"
-     Driver "amdgpu"
-     Option "TearFree" "true"
-  EndSection
-```
-
-Then, log back in, and enjoy the tear free rendering!
-
-#### FreeSync
-
-[FreeSync](https://en.wikipedia.org/wiki/FreeSync) is a technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
-
-This feature, however, is only available if your [**monitor is compatible with FreeSync**](https://www.amd.com/en/products/freesync-monitors), as well as if your [**GPU is compatible with FreeSync**](https://www.amd.com/en/technologies/free-sync-faq#faq-Which-products-support-AMD-FreeSync%E2%84%A2-technology?).
-
-If you are using a laptop, you can check if your [**laptop is compatible with FreeSync**](https://www.amd.com/en/products/freesync-laptops).
-
-If you have the requirements, you can simply enable the `VariableRefresh` option. To do so, follow the example:
-
-```
-/etc/X11/xorg.conf.d/99-amdgpu.conf
-――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
-Section "Device"
-     Identifier "AMD"
-     Driver "amdgpu"
-     Option "VariableRefresh" "true"
-  EndSection
-```
-
-Then, log back in, and enjoy your FreeSync enabled gaming!
-
-#### Others
+[**FreeSync**](/XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
 
 If you want to explore into the Xorg configuration options, you can look into:
 
@@ -190,20 +153,12 @@ The installation of WINE varries between a stable/testing package and could thus
 To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
 
 
-# Custom Kernels
+# Custom kernels
 
-## ZEN/Liquorix
-ZEN/Liquorix kernels is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
-However Liquorix aren't the exact same kernels due to Liquorix being based on ZEN and specially optimized for Debian and Debian based distibutions.
-Some of their major features are "Hard Kernel Preemption", "TCP BBR Congestion Control" and "Zen Interactive Tuning".
-
-### Pop!_OS
-To install Liquorix Kernel on Pop!_OS all you have to do is run:
-```
-sudo add-apt-repository ppa:damentz/liquorix && sudo apt update && sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
-
-```
-
+[**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+- **Debian**/***buntu** — https://liquorix.net/#install
+- **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
+- **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
 
 # Emulators
 

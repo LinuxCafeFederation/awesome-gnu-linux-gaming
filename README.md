@@ -12,6 +12,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Table of contents
 
+- [Distributions](#distributions)
 - [Utilities](#utilities)
 - [Processors](#processors)
 	- [AMD](#amd)
@@ -31,9 +32,9 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Arch Linux](#arch-linux-1)
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
-- [Custom Kernels](#Custom-kernels)
-    - [ZEN/Liquorix](#Zen/Liquorix)
-        - [Pop!_OS](Pop!_OS)
+- [Custom Kernels](#custom-kernels)
+    - [ZEN/Liquorix](#zen/liquorix)
+        - [Pop!_OS](pop!_os)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)

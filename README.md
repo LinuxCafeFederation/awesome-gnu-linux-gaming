@@ -20,9 +20,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [Graphics cards](#graphics-cards)
 	- [AMD](#amd-1)
 		- [Xorg](#xorg)
-			- [Eliminate screen tearing](#eliminate-screen-tearing)
-			- [FreeSync](#freesync)
-			- [Others](#others)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Gaming platforms](#gaming-platforms)
@@ -99,8 +96,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**FreeSync**](/XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
 
-If you want to explore into the Xorg configuration options, you can look into:
-
+**Others** — If you want to explore into the Xorg configuration options, you can look into:
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)

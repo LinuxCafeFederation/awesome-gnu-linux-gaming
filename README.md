@@ -190,6 +190,27 @@ To install a more up-to-date version of wine, one has to replace wine with `wine
 
 [**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
+# Custom Kernels
+
+There are various alternative Linux kernels available for Linux distributions, each one has it's own patchset, but most custom kernels' goal is to increase performance and stability.
+Kernel packages are installed onto the file system under /boot/. To be able to boot into kernels, the boot loader has to be configured appropriately. 
+
+## ZEN/Liquorix Kernel
+ZEN/Liquorix kernels is a distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+Although Liquorix is based on ZEN and specially optimized for Debian and Debian based distibutions.
+Some of their major features are "Hard Kernel Preemption", "TCP BBR Congestion Control" and "Zen Interactive Tuning".
+
+### Installation
+### Pop!_OS
+To install Liquorix Kernel on Pop!_OS all you have to do is run:
+```
+sudo add-apt-repository ppa:damentz/liquorix && sudo apt update
+```
+and
+```
+sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+```
+
 # Developers
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.

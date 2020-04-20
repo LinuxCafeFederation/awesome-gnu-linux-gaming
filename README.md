@@ -225,14 +225,14 @@ Because the Arch wiki has been promoted by many youtubers, and it is also a meme
 
 ### Why not add Manjaro?
 
-Because Manjaro is the worst, and here are the reasons why:
+Because Manjaro is the worst, and somehow managed to surpass Ubuntu at being junk. Here are the reasons why:
 
 - **Incompetent developers**
 	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:
 		- https://rentry.co/manjaro-controversies
 		- https://github.com/vizs/manjarno
 - **Bad security**
-	- Manjaro does not have a security policy enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions. They then [reply](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) and have the audacity to say that it does not matter.
+	- Manjaro does not have a security policy (including [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions. They then [reply and have the audacity](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) to say that it does not matter.
 		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
 	- Manjaro holds back packages for several weeks, including security patches, which makes security updates come a couple of weeks later, which makes it even more insecure.
 		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
@@ -245,6 +245,9 @@ Because Manjaro is the worst, and here are the reasons why:
 	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
 	- In their [website](https://manjaro.org/), we quote: "```*You have full control* and you will not be prevented from breaking your own installation [...]```" They tell you that "`you have full control`" over the system, which is completely false because, for example, you cannot use other init systems like OpenRC in Manjaro anymore, or you cannot use Runit.
 		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
+- **A-holes**
+	- Manjaro does not contribute to the upstream at all. [Canonical at least contributes at a minimum](https://www.phoronix.com/scan.php?page=news_item&px=RedHat-SUSE-Canonical-Kern-10s).
+
 # Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).

@@ -243,7 +243,7 @@ Because Manjaro is the worst, and here are the reasons why:
 		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
 - **Dishonesty**
 	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
-	- In their [website](https://manjaro.org/), we quote: "```*You have full control* and you will not be prevented from breaking your own installation [...]```" They tell you that `"you have full control"` over the system, which is completely false because, for example, you cannot use other init systems like OpenRC in Manjaro anymore, or you cannot use Runit.
+	- In their [website](https://manjaro.org/), we quote: "```*You have full control* and you will not be prevented from breaking your own installation [...]```" They tell you that "`you have full control`" over the system, which is completely false because, for example, you cannot use other init systems like OpenRC in Manjaro anymore, or you cannot use Runit.
 		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
 # Future plans
 

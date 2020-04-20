@@ -33,7 +33,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
 - [Custom Kernels](#custom-kernels)
-    - [ZEN/Liquorix](#zen-liquorix)
+    - [ZEN/Liquorix](#zenliquorix)
         - [Pop!_OS](pop!_os)
 - [Emulators](#emulators)
 - [Developers](#developers)

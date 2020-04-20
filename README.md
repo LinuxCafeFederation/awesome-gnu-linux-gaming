@@ -225,7 +225,7 @@ Because the Arch wiki has been promoted by many youtubers, and it is also a meme
 
 ### Why not add Manjaro?
 
-Because Manjaro sucks, and here are the reasons why:
+Because Manjaro is the worst, and here are the reasons why:
 
 - **Incompetent developers**
 	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:

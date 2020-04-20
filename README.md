@@ -33,7 +33,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [WINE](#wine)
 		- [Arch Linux](#arch-linux-2)
 - [Custom Kernels](#custom-kernels)
-    - [ZEN/Liquorix](#zen/liquorix)
+    - [ZEN/Liquorix](#zen-liquorix)
         - [Pop!_OS](pop!_os)
 - [Emulators](#emulators)
 - [Developers](#developers)
@@ -200,11 +200,8 @@ Some of their major features are "Hard Kernel Preemption", "TCP BBR Congestion C
 ### Pop!_OS
 To install Liquorix Kernel on Pop!_OS all you have to do is run:
 ```
-sudo add-apt-repository ppa:damentz/liquorix && sudo apt update
-```
-And
-```
-sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+sudo add-apt-repository ppa:damentz/liquorix && sudo apt update && sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+
 ```
 
 

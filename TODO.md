@@ -31,5 +31,7 @@ This is a list of what we are planning on adding in the future. If something is 
 	- https://www.reddit.com/r/linux_gaming/comments/edaq0s/guide_migrating_to_linux_in_2020/
 	- https://github.com/tkashkin/GameHub
 	- https://wiki.archlinux.org/index.php/Gaming
+	- https://lutris.net/games/
+	- https://www.protondb.com/explore
 - ~~Add F.A.Q.~~
 - ~~Add Future plans~~

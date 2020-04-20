@@ -189,10 +189,6 @@ The installation of WINE varries between a stable/testing package and could thus
 To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
 
 
-# Emulators
-
-[**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
-
 # Custom Kernels
 
 ## ZEN/Liquorix
@@ -209,6 +205,12 @@ And
 ```
 sudo apt install linux-image-liquorix-amd64 linux-headers-liquorix-amd64
 ```
+
+
+# Emulators
+
+[**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
+
 
 # Developers
 

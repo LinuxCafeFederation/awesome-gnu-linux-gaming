@@ -274,8 +274,6 @@ Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being 
 		They are just taking the piss. They are making others (Arch developers) do their dirty work.
 		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
 
-
-
 # Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).

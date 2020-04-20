@@ -225,23 +225,25 @@ Because the Arch wiki has been promoted by many youtubers, and it is also a meme
 
 ### Why not add Manjaro?
 
-Because Manjaro sucks.
+Because Manjaro sucks, and here are the reasons why:
 
 - **Incompetent developers**
 	- The Manjaro developers are filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:
 		- https://rentry.co/manjaro-controversies
 		- https://github.com/vizs/manjarno
 - **Bad security**
-	- Manjaro does not have a security policy enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions: https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757. They then [reply](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) and have the audacity to say that it does not matter.
-	- Manjaro holds back packages for several weeks, including security patches, which makes security updates come a couple of weeks later, which makes it even more insecure: http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
+	- Manjaro does not have a security policy enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions. They then [reply](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) and have the audacity to say that it does not matter.
+		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
+	- Manjaro holds back packages for several weeks, including security patches, which makes security updates come a couple of weeks later, which makes it even more insecure.
+		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
 - **Instability and bugs that are non-existant in Arch**
-	- Arch is already unstable, but Manjaro takes the instability two steps further and produces more bugs that are/were never present in Arch. Here are some examples of people having issues with Pipewire in Manjaro, which was non-existent in Arch:
+	- Already that Arch is very unstable, Manjaro takes the instability two steps further and produces more bugs that are/were never present in Arch. Here are some examples of people having issues with extreme memory leakage with Pipewire in Manjaro, which were non-existent in Arch:
 		- https://forum.manjaro.org/t/after-upgrade-no-sound-pipewire-100-cpu-load-system-freeze/131580
 		- https://forum.manjaro.org/t/troubleshooting-random-system-freeze/106554
 		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
 - **Dishonesty**
 	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
-	- In their [website](https://manjaro.org/): ```Manjaro is not a consumer-oriented operating system. You have full control and you will not be prevented from breaking your own installation [...]``` They tell you that you have full control of the system, which is not true because you cannot use other init systems for example, since they have been deprecated:
+	- In their [website](https://manjaro.org/), we quote: "```*You have full control* and you will not be prevented from breaking your own installation [...]```" They tell you that `"you have full control"` over the system, which is completely false because, for example, you cannot use other init systems like OpenRC in Manjaro anymore, or you cannot use Runit.
 		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
 # Future plans
 

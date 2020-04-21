@@ -28,7 +28,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [Lutris](#lutris)
 		- [Arch Linux](#arch-linux-1)
 	- [WINE](#wine)
-		- [Arch Linux](#arch-linux-2)
 - [Custom kernels](#custom-kernels)
 - [Emulators](#emulators)
 - [Developers](#developers)
@@ -141,12 +140,12 @@ It's worth mentioning that the installation of Lutris is not the complex part of
 
 ## WINE
 Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems such as Linux, macOS, & BSD.
-
-### Arch Linux
-The installation of WINE varries between a stable/testing package and could thus be installed, if one desires a stable WINE installation, through the following command: `sudo pacman -S wine wine-gecko wine-mono`, where the `wine-gecko wine-mono` are packages required by applications dependent on `IE` and `.NET`.
-
-To install a more up-to-date version of wine, one has to replace wine with `wine-staging` and thus the command becomes as follows: `sudo pacman -S wine-staging wine-gecko wine-mono`
-
+- **Debian** — https://wiki.winehq.org/Debian
+- ***buntu** — https://wiki.winehq.org/Ubuntu
+- **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation
+- **Gentoo** — https://wiki.gentoo.org/wiki/Wine#Installation
+- **Clear Linux** — https://clearlinux.org/software/bundle/wine
+- **Fedora** — https://wiki.winehq.org/Fedora
 
 # Custom kernels
 

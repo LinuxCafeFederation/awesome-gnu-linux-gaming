@@ -74,7 +74,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ## AMD
 
-**NOTE: this is only for the AMDGPU drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
+**NOTE: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
 #### [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporations](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 

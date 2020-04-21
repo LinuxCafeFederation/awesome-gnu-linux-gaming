@@ -143,7 +143,7 @@ It also offers [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton)
 
 # YouTube channels
 
-**FlightlessMango** — https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w
+**[FlightlessMango](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w)** — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
 
 # Q&As
 

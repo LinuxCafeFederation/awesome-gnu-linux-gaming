@@ -143,6 +143,8 @@ Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility la
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
 - **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation
+- **Gentoo** — https://wiki.gentoo.org/wiki/Wine#Installation
+- **Clear Linux** — https://clearlinux.org/software/bundle/wine
 - **Fedora** — https://wiki.winehq.org/Fedora
 
 # Custom kernels

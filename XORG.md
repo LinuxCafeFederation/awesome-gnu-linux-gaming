@@ -8,7 +8,7 @@ You will have to create a file in `/etc/X11/xorg.conf.d/` and enable the `TearFr
 
 ```
 /etc/X11/xorg.conf.d/99-amdgpu.conf
-―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+――――――――――――――――――――――――――――――――――――――――――
 Section "Device"
      Identifier "AMD"
      Driver "amdgpu"
@@ -31,6 +31,7 @@ If you have the requirements, you can simply enable the `VariableRefresh` option
 
 ```
 /etc/X11/xorg.conf.d/99-amdgpu.conf
+――――――――――――――――――――――――――――――――――――――――――
 Section "Device"
      Identifier "AMD"
      Driver "amdgpu"

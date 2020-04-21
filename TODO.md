@@ -6,8 +6,8 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [flightlessmango / MangoHud](https://github.com/flightlessmango/MangoHud)~~
 - ~~Add [benjamimgois / GOverlay](https://github.com/benjamimgois/goverlay)~~
 - ~~Add [DadSchoorse / vkBasalt](https://github.com/DadSchoorse/vkBasalt)~~
-- Add [Proton](https://github.com/ValveSoftware/Proton)
-- Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
+- ~~Add [Proton](https://github.com/ValveSoftware/Proton)~~
+- ~~Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)~~
 - ~~Add [WINE](https://www.winehq.org/)~~
 - ~~Add [Lutris](https://lutris.net/)~~
 - Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)

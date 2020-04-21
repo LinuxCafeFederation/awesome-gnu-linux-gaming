@@ -27,7 +27,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Arch Linux](#arch-linux)
 	- [Lutris](#lutris)
 		- [Arch Linux](#arch-linux-1)
-	- [WINE](#wine)
 - [Custom kernels](#custom-kernels)
 - [Emulators](#emulators)
 - [Developers](#developers)
@@ -138,8 +137,7 @@ The installation of Lutris is rather simple compared to Steam and thus the users
 
 It's worth mentioning that the installation of Lutris is not the complex part of running the software, but the installation of games through Lutris could be thought of as more complex as one would hope for. The installation of League of Legends on Linux through Lutris is a good example of such task. 
 
-## WINE
-Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems such as Linux, macOS, & BSD.
+[**Wine**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
 - **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation

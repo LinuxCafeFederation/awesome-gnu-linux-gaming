@@ -28,7 +28,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [Lutris](#lutris)
 		- [Arch Linux](#arch-linux-1)
 	- [WINE](#wine)
-		- [Arch Linux](#arch-linux-2)
 - [Custom kernels](#custom-kernels)
 - [Emulators](#emulators)
 - [Developers](#developers)

@@ -25,7 +25,7 @@ This is a list of what we are planning on adding in the future. If something is 
 	- [CK patchsets](http://ck.kolivas.org/)
 	- ~~[ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)~~
 	- [Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)
-	- [Add XenMod](https://xanmod.org/)
+	- [Add XanMod](https://xanmod.org/)
 - Add references
 	- https://www.icculus.org/lgfaq/gamelist.php
 	- https://www.gigablast.com/Top/Games/Video_Games/

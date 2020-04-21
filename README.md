@@ -23,10 +23,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Gaming platforms](#gaming-platforms)
-	- [Steam](#steam)
-		- [Arch Linux](#arch-linux)
-	- [Lutris](#lutris)
-		- [Arch Linux](#arch-linux-1)
 - [Custom kernels](#custom-kernels)
 - [Emulators](#emulators)
 - [Developers](#developers)
@@ -105,37 +101,18 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Gaming platforms
 
-## Steam
-Steam is a video game digital distribution service by Valve. On August 21, 2018 Valve released a newly developed project with the name `Proton`; a project based on a fork of WINE aiming to improve the current gaming situation on Linux. Proton is a mostly free and open-source compatibility layer that allows software designed for Microsoft Windows to run on Linux-based operating systems.
+[**Steam**](https://store.steampowered.com/) — Steam is a video game digital distribution service by Valve. On August 21, 2018 Valve released a newly developed project with the name `Proton`; a project based on a fork of WINE aiming to improve the current gaming situation on Linux. Proton is a mostly free and open-source compatibility layer that allows software designed for Microsoft Windows to run on Linux-based operating systems.
+- **Debian** — https://wiki.debian.org/Steam#Installation
+- **Pop!_OS** — https://support.system76.com/articles/steam/
+- **Arch Linux** — https://wiki.archlinux.org/index.php/steam#Installation
+- **Gentoo** — https://wiki.gentoo.org/wiki/Steam#Installation
+- **Clear Linux** — https://clearlinux.org/software/flathub/steam
 
-### Arch Linux
-To install steam on `Arch Linux` one has to install the required packages and later optimize steam for running Windows architectured games on Linux.
 
-The process for an AMD based device could be achieved as follow:
-1. Enable multilib repositories by excluding the `#` affront of `[multilib]` and `#include` found in `/etc/pacman.conf`.
-
-The process mentioned above should look as follows: 
-   1. `nano/vim /etc/pacman.conf` (choose your desired editor).
-   2.  
-	```
-   	[multilib]
-	Include = /etc/pacman.d/mirrorlist
-	```
-	3. Make sure to run `sudo pacman -Syu` after enabling the `multilib` repositories found in `pacman.conf`.
-
-1. Install the missing packages from your Arch Linux installation. **It should be understood that the packages listed below are not indented to be installed on one functional Linux system**, but rather for the user to select the suitable packages required by his/her system to later install.
-   1. `steam ttf-liberation wqy-zenhei lib32-mesa mesa xf86-video-amdgpu/xf86-video-ati/xf86-video-intel/xf86-video-nouveau`.
-   2. In the following example it is shown how an installation of steam would look like on a laptop running on AMDGPU: `sudo pacman -Sy steam ttf-liberation wqy-zenhei lib32-mesa mesa xf86-video-amdgpu`
-
-2. Run `Steam (Runtime)`, open up the settings window and later enable `Steam Play` through the Steam Play category.
-
-## Lutris
-Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
-
-### Arch Linux
-The installation of Lutris is rather simple compared to Steam and thus the users has to attempt the installation of the package alone and wait for it to finish the installation. This could be achieved with the help of running the following command: `sudo pacman -Sy lutris`.
-
-It's worth mentioning that the installation of Lutris is not the complex part of running the software, but the installation of games through Lutris could be thought of as more complex as one would hope for. The installation of League of Legends on Linux through Lutris is a good example of such task. 
+[**Lutris**](https://lutris.net/) — Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
+- **Arch Linux** — https://www.archlinux.org/packages/community/any/lutris/
+- **Gentoo** - https://wiki.gentoo.org/wiki/Lutris#Installation
+- **Clear Linux** — https://www.clearlinux.org/software/bundle/lutris
 
 [**Wine**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian

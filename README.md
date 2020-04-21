@@ -101,7 +101,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
 
-**Note: It is not advised to install the driver through the package provided from the NVIDIA website.**
+**NOTE: It is not advised to install the driver through the package provided from the NVIDIA website.**
 
 - **Debian** — https://wiki.debian.org/NvidiaGraphicsDrivers#Installation
 - **Arch Linux** — https://wiki.archlinux.org/index.php/NVIDIA#Installation

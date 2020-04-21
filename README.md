@@ -99,6 +99,15 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ## Nvidia
 
+### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
+
+**NOTE: It is not advised to install the driver through the package provided from the NVIDIA website.**
+
+- **Debian** — https://wiki.debian.org/NvidiaGraphicsDrivers#Installation
+- **Arch Linux** — https://wiki.archlinux.org/index.php/NVIDIA#Installation
+- **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
+- **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
+
 # Gaming platforms
 
 #### [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.

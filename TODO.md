@@ -11,7 +11,7 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [WINE](https://www.winehq.org/)~~
 - ~~Add [Lutris](https://lutris.net/)~~
 - Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)
-- Add [MiniGalaxy](https://github.com/sharkwouter/minigalaxy)
+- Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
 - Add Development
 	- Add [Godot](https://godotengine.org/)
 	- Add [Blender](https://www.blender.org/)

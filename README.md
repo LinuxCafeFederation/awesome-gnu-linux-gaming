@@ -24,6 +24,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [Nvidia](#nvidia)
 - [Gaming platforms](#gaming-platforms)
 - [Custom kernels](#custom-kernels)
+- [WINE](#wine)
+	- [WINE implementations](#wine-implementations)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)
@@ -65,8 +67,9 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 ## AMD
 
 #### [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
+- **[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Front-end (GUI) for RyzenAdj.**
 
-#### [**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Adjust core clock and voltage of Ryzen processors; front-end for [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj).
+#### 
 
 ## Intel
 
@@ -76,7 +79,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 **NOTE: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
-#### [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporations](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
+#### [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 
 #### [**Overclocking**](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking) — Guide to overclock an AMD GPU using the AMDGPU drivers.
 
@@ -110,7 +113,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Gaming platforms
 
-#### [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
+#### [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
 
 **It also offers [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.**
 - **Debian** — https://wiki.debian.org/Steam#Installation
@@ -125,6 +128,17 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Gentoo** - https://wiki.gentoo.org/wiki/Lutris#Installation
 - **Clear Linux** — https://www.clearlinux.org/software/bundle/lutris
 
+
+# Custom kernels
+
+#### [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+- **Debian**/***buntu** — https://liquorix.net/#install
+- **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
+- **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
+
+
+# WINE
+
 #### [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
@@ -133,12 +147,12 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Clear Linux** — https://clearlinux.org/software/bundle/wine
 - **Fedora** — https://wiki.winehq.org/Fedora
 
-# Custom kernels
+## WINE implementations
 
-#### [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
-- **Debian**/***buntu** — https://liquorix.net/#install
-- **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
-- **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
+#### [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
+
+#### [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux. 
+- **[**GloriusEggroll / proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.**
 
 # Emulators
 

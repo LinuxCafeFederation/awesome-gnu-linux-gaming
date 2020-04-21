@@ -143,7 +143,7 @@ It's worth mentioning that the installation of Lutris is not the complex part of
 Wine (originally an acronym for "Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
-- **Arch Linux** — https://wiki.archlinux.org/index.php/Wine
+- **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation
 - **Fedora** — https://wiki.winehq.org/Fedora
 
 # Custom kernels

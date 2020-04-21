@@ -101,20 +101,22 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Gaming platforms
 
-[**Steam**](https://store.steampowered.com/) — Steam is a video game digital distribution service by Valve. On August 21, 2018 Valve released a newly developed project with the name `Proton`; a project based on a fork of WINE aiming to improve the current gaming situation on Linux. Proton is a mostly free and open-source compatibility layer that allows software designed for Microsoft Windows to run on Linux-based operating systems.
+[**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
+
+It also offers [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.
 - **Debian** — https://wiki.debian.org/Steam#Installation
 - **Pop!_OS** — https://support.system76.com/articles/steam/
 - **Arch Linux** — https://wiki.archlinux.org/index.php/steam#Installation
 - **Gentoo** — https://wiki.gentoo.org/wiki/Steam#Installation
 - **Clear Linux** — https://clearlinux.org/software/flathub/steam
+- **Flatpak** — https://flathub.org/apps/details/com.valvesoftware.Steam
 
-
-[**Lutris**](https://lutris.net/) — Lutris is a FOSS game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
+[**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 - **Arch Linux** — https://www.archlinux.org/packages/community/any/lutris/
 - **Gentoo** - https://wiki.gentoo.org/wiki/Lutris#Installation
 - **Clear Linux** — https://www.clearlinux.org/software/bundle/lutris
 
-[**Wine**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
+[**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
 - **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation

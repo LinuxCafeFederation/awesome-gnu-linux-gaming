@@ -121,44 +121,21 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Gaming platforms
 
-[**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
-
-It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.
-- **Debian** — https://wiki.debian.org/Steam#Installation
-- **Pop!_OS** — https://support.system76.com/articles/steam/
-- **Arch Linux** — https://wiki.archlinux.org/index.php/steam#Installation
-- **Gentoo** — https://wiki.gentoo.org/wiki/Steam#Installation
-- **Clear Linux** — https://clearlinux.org/software/flathub/steam
-- **Flatpak** — https://flathub.org/apps/details/com.valvesoftware.Steam
+[**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers. It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.
 
 [**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
-- **Arch Linux** — https://www.archlinux.org/packages/community/any/lutris/
-- **Gentoo** - https://wiki.gentoo.org/wiki/Lutris#Installation
-- **Clear Linux** — https://www.clearlinux.org/software/bundle/lutris
 
 
 # Custom kernels
 
 [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
-- **Debian**/***buntu** — https://liquorix.net/#install
-- **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
-- **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
 
 [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
-- **Debian**/***buntu** — https://xanmod.org/#install_via_terminal
-- **Arch Linux** - https://aur.archlinux.org/packages/linux-xanmod/
-- **Gentoo** - https://gpo.zugaina.org/sys-kernel/xanmod-sources
 
 
 # WINE
 
 [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
-- **Debian** — https://wiki.winehq.org/Debian
-- ***buntu** — https://wiki.winehq.org/Ubuntu
-- **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation
-- **Gentoo** — https://wiki.gentoo.org/wiki/Wine#Installation
-- **Clear Linux** — https://clearlinux.org/software/bundle/wine
-- **Fedora** — https://wiki.winehq.org/Fedora
 
 ## WINE implementations
 

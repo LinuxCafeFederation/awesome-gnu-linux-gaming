@@ -136,10 +136,10 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
 - **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
 
-#### [**XanMod**](https://xanmod.org/) — XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience. 
+#### [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 - **Debian**/***buntu** — https://xanmod.org/#install_via_terminal
 - **Arch Linux** - https://aur.archlinux.org/packages/linux-xanmod/
-
+- **Gentoo** - Add the [src_prepare overlay](https://gitlab.com/src_prepare/src_prepare-overlay#adding-the-overlay) and install `sys-kernel/xanmod-sources`.
 
 # WINE
 

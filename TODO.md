@@ -10,7 +10,7 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)~~
 - ~~Add [WINE](https://www.winehq.org/)~~
 - ~~Add [Lutris](https://lutris.net/)~~
-- Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)
+- ~~Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)~~
 - Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
 - Add Development
 	- Add [Godot](https://godotengine.org/)

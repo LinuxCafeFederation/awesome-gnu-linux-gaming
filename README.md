@@ -208,7 +208,7 @@ Because the Arch wiki has been promoted by many youtubers, and it is also a meme
 Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being junk. Here are the reasons why:
 
 - **Incompetent developers**
-	- The Manjaro team is filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:
+	- The Manjaro team is filled with incompetent developers. Some people have written an incomplete list of Manjaro developers' incompetency:
 		- https://rentry.co/manjaro-controversies
 		- https://github.com/vizs/manjarno
 

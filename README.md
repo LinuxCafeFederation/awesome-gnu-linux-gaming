@@ -2,6 +2,7 @@
 
 A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. Inspired by [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) and other awesome-related projects.
 
+
 # Overview
 
 This is a hobby project to improve the quality of gaming in Linux because it is possible to improve performance by tweaking your Linux machine. Most Linux distributions have a lot of issues when it comes to gaming performance, as they do not utilise the modern and superior counterparts.
@@ -9,6 +10,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 ## **Disclaimer**
 
 It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
+
 
 # Table of contents
 
@@ -33,6 +35,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [Q&As](#qas)
 - [Future plans](#future-plans)
 
+
 # Distributions
 
 *From simplest to complex.*
@@ -51,6 +54,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 #### [**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
+
 # Utilities
 
 #### [**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
@@ -63,6 +67,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 #### [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of X11 or XWayland. **(Arch derivatives only!)**
 
+
 # Processors
 
 ## AMD
@@ -70,9 +75,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 #### [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
 - **[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Front-end (GUI) for RyzenAdj.**
 
-#### 
-
 ## Intel
+
 
 # Graphics cards
 
@@ -112,6 +116,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
+
 # Gaming platforms
 
 #### [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
@@ -141,6 +146,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Debian**/***buntu** — https://xanmod.org/#install_via_terminal
 - **Arch Linux** - https://aur.archlinux.org/packages/linux-xanmod/
 - **Gentoo** - https://gpo.zugaina.org/sys-kernel/xanmod-sources
+
+
 # WINE
 
 #### [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
@@ -158,6 +165,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 #### [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux. 
 - **[**GloriusEggroll / proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.**
 
+
 # Emulators
 
 #### [**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
@@ -171,6 +179,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 # YouTube channels
 
 #### **[FlightlessMango](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w)** — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
+
 
 # Q&As
 
@@ -226,6 +235,7 @@ Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being 
 	
 		They are just taking the piss. They are making others (Arch developers) do their dirty work.
 		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
+
 
 # Future plans
 

@@ -22,6 +22,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 		- [Xorg](#xorg)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
+		- [Drivers](#drivers)
 - [Gaming platforms](#gaming-platforms)
 - [Custom kernels](#custom-kernels)
 - [WINE](#wine)

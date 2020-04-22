@@ -142,8 +142,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Emulators
 
-[**alnacle / awesome-emulators**](https://github.com/alnacle/awesome-emulators) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
-
+[**alnacle / awesome-emulators**](https://github.com/alnacle/awesome-emulators) — A curated list of awesome open source emulators.
 
 # Developers
 

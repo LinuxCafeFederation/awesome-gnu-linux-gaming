@@ -211,22 +211,29 @@ Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being 
 	- The Manjaro team is filled with incompetent developers. Here are summaries to prove Manjaro developers' incompetency:
 		- https://rentry.co/manjaro-controversies
 		- https://github.com/vizs/manjarno
+
 - **Bad security**
-	- Manjaro does not have a security policy (including [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions. They then [reply and have the audacity](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) to say that it does not matter.
-	
-		If you want a security and privacy respecting "noob" distribution, then Manjaro is definitely not for you.
+	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default, which this itself already makes Manjaro several times more unsecured than most other distributions. They then [reply and have the audacity](https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757/4) to say that it does not matter.
 		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
 	- Manjaro holds back packages for several weeks, including security patches, which makes security updates come a couple of weeks later, which makes it even more insecure.
 		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
+
+- **Bad privacy**
+	- Due to Manjaro not having a security policy enabled by default (as said above), applications have full access to view over the system's directories, which this itself makes it not good for privacy. Security policies like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux) manage permissions over applications so they do not snoop on your directories, but Manjaro disables them by default, which this itself (for privacy enthousiasts) makes it terrible.
+
+		If you want a secure and privacy respecting distribution, then Manjaro is definitely not for you.
+
 - **Instability and bugs that are non-existant in Arch**
 	- Arch may be unstable, but Manjaro takes the instability two steps further and produces more bugs that are/were never present in Arch. Here are some examples of people having issues with extreme memory leakage with Pipewire in Manjaro, which were non-existent in Arch:
 		- https://forum.manjaro.org/t/after-upgrade-no-sound-pipewire-100-cpu-load-system-freeze/131580
 		- https://forum.manjaro.org/t/troubleshooting-random-system-freeze/106554
 		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
+
 - **Dishonesty**
-	- They claim to have their own repository, but it is just the Arch repository delayed for a couple of weeks.
+	- They claim to have their own repository, which is true, but it is just the Arch repository delayed for a couple of weeks.
 	- In their [website](https://manjaro.org/), we quote: "```*You have full control* and you will not be prevented from breaking your own installation [...]```" They tell you that "you have full control" over the system, which is completely false because, for example, you cannot use other init systems like OpenRC in Manjaro anymore, and you cannot use Runit at all.
 		- https://forum.manjaro.org/t/manjaro-openrc-will-be-discontinued/28387
+
 - **A-holes**
 	- Manjaro does not contribute to the upstream at all. [Canonical at least contributes at a minimum](https://www.phoronix.com/scan.php?page=news_item&px=RedHat-SUSE-Canonical-Kern-10s).
 	- Manjaro tells you that you use the AUR at your own risk, and they will not support you because it is "not a Manjaro issue". If it wasn't a Manjaro issue, then Pamac/Octopi and the complete exposition of the AUR to the user in Manjaro wouldn't be a thing.

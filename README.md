@@ -119,7 +119,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
 
-**It also offers [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.**
+It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.
 - **Debian** — https://wiki.debian.org/Steam#Installation
 - **Pop!_OS** — https://support.system76.com/articles/steam/
 - **Arch Linux** — https://wiki.archlinux.org/index.php/steam#Installation

@@ -139,8 +139,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 #### [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 - **Debian**/***buntu** — https://xanmod.org/#install_via_terminal
 - **Arch Linux** - https://aur.archlinux.org/packages/linux-xanmod/
-- **Gentoo** - Add the [src_prepare overlay](https://gitlab.com/src_prepare/src_prepare-overlay#adding-the-overlay) and install `sys-kernel/xanmod-sources`.
-
+- **Gentoo** - https://gpo.zugaina.org/sys-kernel/xanmod-sources
 # WINE
 
 #### [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.

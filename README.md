@@ -168,7 +168,7 @@ It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WIN
 [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
 
 [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux. 
-- **[**GloriusEggroll / proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.**
+- [**GloriousEggroll / proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [Proton](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.
 
 
 # Emulators

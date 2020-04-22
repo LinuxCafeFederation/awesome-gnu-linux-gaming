@@ -40,40 +40,40 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 *From simplest to complex.*
 
-#### ~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](#why-not-add-manjaro).***
+~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](#why-not-add-manjaro).***
 
-#### [**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
+[**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
 
-#### [**Fedora**](https://getfedora.org/) — Based on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux). Comes with some performance tools pre-installed such as [**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode).
+[**Fedora**](https://getfedora.org/) — Based on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux). Comes with some performance tools pre-installed such as [**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode).
 
-#### [**Alpine Linux**](https://www.alpinelinux.org/) — Minimal, simple and secure binary based distribution aimed for performance.
+[**Alpine Linux**](https://www.alpinelinux.org/) — Minimal, simple and secure binary based distribution aimed for performance.
 
-#### [**Arch Linux**](https://www.archlinux.org/) — Lightweight and independent distribution to provide as much performance with as less time spent.
+[**Arch Linux**](https://www.archlinux.org/) — Lightweight and independent distribution to provide as much performance with as less time spent.
 
-#### [**Clear Linux**](https://clearlinux.org/) — Independent distribution by [Intel](https://en.wikipedia.org/wiki/Intel) with various [patches](https://github.com/clearlinux-pkgs/linux) aimed for performance.
+[**Clear Linux**](https://clearlinux.org/) — Independent distribution by [Intel](https://en.wikipedia.org/wiki/Intel) with various [patches](https://github.com/clearlinux-pkgs/linux) aimed for performance.
 
-#### [**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
+[**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
 
 # Utilities
 
-#### [**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
+[**FeralInteractive / gamemode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
 
-#### [**flightlessmango / MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+[**flightlessmango / MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
-#### [**DadSchoorse / vkBasalt**](https://github.com/DadSchoorse/vkBasalt) — A Vulkan post processing layer to enhance the visual graphics of games while barely impacting performance.
+[**DadSchoorse / vkBasalt**](https://github.com/DadSchoorse/vkBasalt) — A Vulkan post processing layer to enhance the visual graphics of games while barely impacting performance.
 
-#### [**benjamimgois / GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as MangoHud and vkBasalt.
+[**benjamimgois / GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as MangoHud and vkBasalt.
 
-#### [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of X11 or XWayland. **(Arch derivatives only!)**
+[**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of X11 or XWayland. **(Arch derivatives only!)**
 
 
 # Processors
 
 ## AMD
 
-#### [**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
-- **[**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Front-end (GUI) for RyzenAdj.**
+[**FlyGoat / RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
+- [**ryzen-controller-team / ryzen-controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Front-end (GUI) for RyzenAdj.
 
 ## Intel
 
@@ -84,21 +84,21 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 **NOTE: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
-#### [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
+[**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 
-#### [**Overclocking**](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking) — Guide to overclock an AMD GPU using the AMDGPU drivers.
+[**Overclocking**](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking) — Guide to overclock an AMD GPU using the AMDGPU drivers.
 
-#### [**sibradzic / amdgpu-clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
+[**sibradzic / amdgpu-clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
 ### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
 
-#### [**TearFree**](/XORG.md#tearfree) — Enable tearing prevention using the hardware page flipping mechanism.
+[**TearFree**](/XORG.md#tearfree) — Enable tearing prevention using the hardware page flipping mechanism.
 
-#### [**FreeSync**](/XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
+[**FreeSync**](/XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
 
-#### **Others** — If you want to explore into the Xorg configuration options, you can look into:
+**Others** — If you want to explore into the Xorg configuration options, you can look into:
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
@@ -107,7 +107,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ## Nvidia
 
-#### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
+[**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
 
 **NOTE: It is not advised to install the driver through the package provided from the NVIDIA website.**
 
@@ -119,7 +119,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Gaming platforms
 
-#### [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
+[**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers.
 
 **It also offers [ValveSoftware / Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.**
 - **Debian** — https://wiki.debian.org/Steam#Installation
@@ -129,7 +129,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Clear Linux** — https://clearlinux.org/software/flathub/steam
 - **Flatpak** — https://flathub.org/apps/details/com.valvesoftware.Steam
 
-#### [**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
+[**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 - **Arch Linux** — https://www.archlinux.org/packages/community/any/lutris/
 - **Gentoo** - https://wiki.gentoo.org/wiki/Lutris#Installation
 - **Clear Linux** — https://www.clearlinux.org/software/bundle/lutris
@@ -137,12 +137,12 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # Custom kernels
 
-#### [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
+[**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 - **Debian**/***buntu** — https://liquorix.net/#install
 - **Arch Linux** — https://www.archlinux.org/packages/extra/x86_64/linux-zen/
 - **Gentoo** — https://gpo.zugaina.org/sys-kernel/zen-sources
 
-#### [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
+[**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 - **Debian**/***buntu** — https://xanmod.org/#install_via_terminal
 - **Arch Linux** - https://aur.archlinux.org/packages/linux-xanmod/
 - **Gentoo** - https://gpo.zugaina.org/sys-kernel/xanmod-sources
@@ -150,7 +150,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 # WINE
 
-#### [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
+[**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 - **Debian** — https://wiki.winehq.org/Debian
 - ***buntu** — https://wiki.winehq.org/Ubuntu
 - **Arch Linux** — https://wiki.archlinux.org/index.php/Wine#Installation
@@ -160,25 +160,25 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ## WINE implementations
 
-#### [**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
+[**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
 
-#### [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux. 
+[**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux. 
 - **[**GloriusEggroll / proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [**ValveSoftware / Proton**](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.**
 
 
 # Emulators
 
-#### [**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
+[**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
 
 # Developers
 
-#### [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
+[**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
 
 
 # YouTube channels
 
-#### **[FlightlessMango](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w)** — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
+[**FlightlessMango**](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w) — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
 
 
 # Q&As

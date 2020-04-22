@@ -21,14 +21,11 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 	- [Intel](#intel)
 - [Graphics cards](#graphics-cards)
 	- [AMD](#amd-1)
-		- [Xorg](#xorg)
 	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
-		- [Drivers](#drivers)
 - [Gaming platforms](#gaming-platforms)
 - [Custom kernels](#custom-kernels)
 - [WINE](#wine)
-	- [WINE implementations](#wine-implementations)
 - [Emulators](#emulators)
 - [Developers](#developers)
 - [YouTube channels](#youtube-channels)
@@ -114,7 +111,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 ### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
 
-**NOTE: It is not advised to install the driver through the package provided from the NVIDIA website.**
+**NOTE: It is not advised to install the driver through the package provided from the NVIDIA website. It is better to install it through the distribution's package manager.**
 
 - **Debian** — https://wiki.debian.org/NvidiaGraphicsDrivers#Installation
 - **Arch Linux** — https://wiki.archlinux.org/index.php/NVIDIA#Installation

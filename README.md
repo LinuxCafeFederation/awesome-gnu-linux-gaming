@@ -166,7 +166,7 @@ It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WIN
 
 # Emulators
 
-[**mcicolella / awesome-emulators-simulators**](https://github.com/mcicolella/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
+[**alnacle / awesome-emulators**](https://github.com/alnacle/awesome-emulators) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
 
 # Developers

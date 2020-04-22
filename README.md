@@ -65,8 +65,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**benjamimgois / GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as MangoHud and vkBasalt.
 
-[**varmd / wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of X11 or XWayland. **(Arch derivatives only!)**
-
 
 # Processors
 

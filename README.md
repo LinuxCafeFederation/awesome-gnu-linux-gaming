@@ -31,6 +31,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [YouTube channels](#youtube-channels)
 - [Q&As](#qas)
 - [Future plans](#future-plans)
+- [Contributing](#contributing)
 
 
 # Distributions
@@ -216,3 +217,7 @@ Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being 
 # Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).
+
+# Contributing
+
+See [CONTRIBUTING.md](/CONTRIBUTING.md).

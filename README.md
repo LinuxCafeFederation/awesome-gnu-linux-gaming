@@ -63,12 +63,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 [**GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as [MangoHud](https://github.com/flightlessmango/MangoHud) and [vkBasalt](https://github.com/DadSchoorse/vkBasalt).
 
 [**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — A FOSS GNU/Linux application that allows you to control with ease your computer hardware using application profiles.
-- Arch Linux — https://gitlab.com/corectrl/corectrl#arch-linux
-- Gentoo — https://gitlab.com/corectrl/corectrl#gentoo
-- Fedora — https://gitlab.com/corectrl/corectrl#fedora
-- openSUSE — https://gitlab.com/corectrl/corectrl#opensuse
-- *buntu — https://gitlab.com/corectrl/corectrl#ubuntu
-- Others — https://gitlab.com/corectrl/corectrl/-/wikis/Installation
+
 
 # Processors
 

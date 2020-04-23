@@ -132,7 +132,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 ## WINE
 
 [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
-- [WINE Staging](https://wiki.winehq.org/Wine-Staging) — Development branch of [WINE](https://wiki.winehq.org).
+- [**WINE Staging**](https://wiki.winehq.org/Wine-Staging) — Development branch of [WINE](https://wiki.winehq.org).
 
 ### WINE implementations
 

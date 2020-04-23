@@ -3,16 +3,16 @@
 A curated list of awesome GNU/Linux tips & tricks, games, tools, and resources. Inspired by [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) and other awesome-related projects.
 
 
-# Overview
+## Overview
 
 This is a hobby project to improve the quality of gaming in Linux because it is possible to improve performance by tweaking your Linux machine. Most Linux distributions have a lot of issues when it comes to gaming performance, as they do not utilise the modern and superior counterparts.
 
-## **Disclaimer**
+### **Disclaimer**
 
 It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
 
 
-# Table of contents
+## Table of contents
 
 - [Distributions](#distributions)
 - [Utilities](#utilities)
@@ -34,7 +34,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [Contributing](#contributing)
 
 
-# Distributions
+## Distributions
 
 *From simplest to complex.*
 
@@ -53,7 +53,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 [**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
 
-# Utilities
+## Utilities
 
 [**GameMode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
 
@@ -66,9 +66,9 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 [**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — A FOSS GNU/Linux application that allows you to control with ease your computer hardware using application profiles.
 
 
-# Processors
+## Processors
 
-## AMD
+### AMD
 
 [**RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
 - [**Ryzen Controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Front-end (GUI) for RyzenAdj.
@@ -76,9 +76,9 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 ## Intel
 
 
-# Graphics cards
+## Graphics cards
 
-## AMD
+### AMD
 
 **NOTE: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
@@ -88,7 +88,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**AMDGPU Clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
-### Xorg
+#### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
 
@@ -101,11 +101,11 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
 
-## Intel
+### Intel
 
-## Nvidia
+### Nvidia
 
-### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
+#### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
 
 **NOTE: It is not advised to install the driver through the package provided from the NVIDIA website. It is better to install it through the distribution's package manager.**
 
@@ -115,25 +115,25 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
 
-# Gaming platforms
+## Gaming platforms
 
 [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers. It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux.
 
 [**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 
 
-# Custom kernels
+## Custom kernels
 
 [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 
 [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 
 
-# WINE
+## WINE
 
 [**WINE**](https://wiki.winehq.org) — A compatibility layer capable of running Windows applications on several [POSIX](http://www.robelle.com/smugbook/posix.html)-compliant operating systems such as Linux, macOS, & BSD.
 
-## WINE implementations
+### WINE implementations
 
 [**wine-wayland**](https://github.com/varmd/wine-wayland) — A WINE implementation to play [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) games in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
 
@@ -141,21 +141,21 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [**proton-ge-custom**](https://github.com/GloriousEggroll/proton-ge-custom) — Fork of [Proton](https://github.com/ValveSoftware/Proton) by RedHat developer GloriousEggroll to port the latest versions of WINE in Proton.
 
 
-# Emulators
+## Emulators
 
 [**alnacle / awesome-emulators**](https://github.com/alnacle/awesome-emulators) — A curated list of awesome open source emulators.
 
-# Developers
+## Developers
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems.
 
 
-# YouTube channels
+## YouTube channels
 
 [**FlightlessMango**](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w) — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
 
 
-# Q&As
+## Q&As
 
 ### Why create this repository?
 

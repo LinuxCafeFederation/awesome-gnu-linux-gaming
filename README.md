@@ -121,7 +121,7 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
 
-[**GOG**] (https://www.gog.com/) - DRM free video game platform owned by CD projekt Red - developers of the Witcher series (linux client not available at this time)
+[**GOG**](https://www.gog.com/) — DRM free video game platform owned by CD projekt Red - developers of the Witcher series (linux client not available at this time)
 
 ## Custom kernels
 

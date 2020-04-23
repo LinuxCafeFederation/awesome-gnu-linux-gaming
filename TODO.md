@@ -9,7 +9,7 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [Proton](https://github.com/ValveSoftware/Proton)~~
 - ~~Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)~~
 - ~~Add [WINE](https://www.winehq.org/)~~
-	- ~~Add [WINE Staging](https://wiki.winehq.org/Wine-Staging)
+	- ~~Add [WINE Staging](https://wiki.winehq.org/Wine-Staging)~~
 	- ~~Add [VKD3D](https://github.com/d3d12/vkd3d)~~
 	- ~~Add [DXVK](https://github.com/doitsujin/dxvk)~~
 		- ~~Add [D9VK](https://github.com/Joshua-Ashton/d9vk)~~

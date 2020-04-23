@@ -12,6 +12,7 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [Lutris](https://lutris.net/)~~
 - ~~Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)~~
 - Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
+- Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
 - Add Development
 	- Add [Godot](https://godotengine.org/)
 	- Add [Blender](https://www.blender.org/)

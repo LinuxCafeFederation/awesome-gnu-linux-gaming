@@ -65,10 +65,6 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — A FOSS GNU/Linux application that allows you to control with ease your computer hardware using application profiles.
 
-[**Intel_Power_Control**] (https://github.com/jmechnich/intel-power-control) - A FOSS GUI application that allows you to control integrated graphics clocks with ease.
-
-[**Intel-GPU-Tools**] (https://github.com/mkuoppal/intel-gpu-tools) - A set of commandline uttilities to show and debug/test integrated graphics, can show clocks, average load etc.
-
 ## Processors
 
 ### AMD
@@ -77,6 +73,8 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 - [**Ryzen Controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Fork [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) with a front-end (GUI).
 
 ## Intel
+
+[**intel-power-control**](https://github.com/jmechnich/intel-power-control) — A GUI GPU power management tool for Intel hardware.
 
 ## Graphics cards
 

@@ -214,10 +214,10 @@ Because Manjaro is the worst, and it somehow managed to surpass Ubuntu at being 
 		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
 
 
-# Future plans
+## Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).
 
-# Contributing
+## Contributing
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).

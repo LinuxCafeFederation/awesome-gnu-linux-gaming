@@ -106,7 +106,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ### Nvidia
 
-#### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/)
+#### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/) — **WARNING: Proprietary Software!**
 
 **NOTE: It is not advised to install the driver through the package provided from the NVIDIA website. It is better to install it through the distribution's package manager.**
 

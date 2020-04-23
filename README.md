@@ -9,8 +9,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 ### **Disclaimer**
 
-It is recommended for the Linux user who finds their knowledge regarding the construction of a Linux based distribution limited to use a rather stable Linux distribiution approved by the Linux community instead of using a Linux distributions solely because of what has been advertised in its regard. Many Linux distributions claim to maintain stability and harmony while in actual reality failing to comply with their claims and thus resulting in system failure, confusion and hatred towards what is thought to be the operating system aiming to provide its users with the wonders of Linux for the newcomer.
-
+This list does provide proprietary software, but they will be exclusively marked as "**Proprietary Software!**".
 
 ## Table of contents
 
@@ -63,7 +62,9 @@ It is recommended for the Linux user who finds their knowledge regarding the con
 
 [**GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as [MangoHud](https://github.com/flightlessmango/MangoHud) and [vkBasalt](https://github.com/DadSchoorse/vkBasalt).
 
-[**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — A FOSS GNU/Linux application that allows you to control with ease your computer hardware using application profiles.
+[**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — Overclocking software with the aesthetics based on AMD's Radeon Software Adrenalin from 2018.
+
+[**QMK**](https://qmk.fm/) — Keyboard firmware based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard)
 
 ## Processors
 

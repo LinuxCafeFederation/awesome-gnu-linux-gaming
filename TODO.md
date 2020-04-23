@@ -18,7 +18,7 @@ This is a list of what we are planning on adding in the future. If something is 
 - ~~Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)~~
 - Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
 - Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
-- Add [QMK](https://github.com/qmk/qmk_firmware)
+- ~~Add [QMK](https://github.com/qmk/qmk_firmware)~~
 - Add Development
 	- Add [Godot](https://godotengine.org/)
 	- Add [Blender](https://www.blender.org/)

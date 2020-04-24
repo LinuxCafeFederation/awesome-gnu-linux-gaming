@@ -30,6 +30,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - [Q&As](#qas)
 - [Future plans](#future-plans)
 - [Contributing](#contributing)
+- [Special thanks](#special-thanks)
 
 
 ## Distributions
@@ -234,3 +235,7 @@ Everything we plan to add in the future in this page will be in [TODO.md](/TODO.
 ## Contributing
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
+
+## Special thanks
+
+Special thanks go the [contributors](https://gitlab.com/TheMainGroup/awesome-gnu-linux-gaming/-/graphs/master) that have contributed in this project, to everyone that has suggested something to add or remove, to the developers that have created and contributed those awesome projects, and to the people that have created and contributed to the documentations. This project would never have happened without you :)

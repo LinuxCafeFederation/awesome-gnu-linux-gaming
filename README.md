@@ -20,7 +20,6 @@ This list does provide proprietary software, but they will be exclusively marked
 	- [Intel](#intel)
 - [Graphics cards](#graphics-cards)
 	- [AMD](#amd-1)
-	- [Intel](#intel-1)
 	- [Nvidia](#nvidia)
 - [Gaming platforms](#gaming-platforms)
 - [Custom kernels](#custom-kernels)
@@ -101,8 +100,6 @@ This list does provide proprietary software, but they will be exclusively marked
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
-
-### Intel
 
 ### Nvidia
 

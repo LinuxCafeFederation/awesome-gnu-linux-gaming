@@ -122,6 +122,12 @@ This list does provide proprietary software, but they will be exclusively marked
 [**GOG**](https://www.gog.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) to provide third-party [DRM](https://en.wikipedia.org/wiki/Digital_rights_management)-free games. — **WARNING: Proprietary Software!**
 - [**Minigalaxy**](https://github.com/sharkwouter/minigalaxy) — A simple GTK GOG client for Linux.
 
+[**itch.io**](https://itch.io/games/platform-linux) — Website for users to host, sell and download [indie](https://en.wikipedia.org/wiki/Indie_game) video games.
+
+[**GameJolt**](https://gamejolt.com/) — Hosting service for free and commercial video games (in browser and a downloadable client) with social functions.
+
+[**BeamDog**](https://www.beamdog.com/) — Online-based game software program which allows players to keep their games up to date with the latest fixes and enhancements.
+
 ## Custom kernels
 
 [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.

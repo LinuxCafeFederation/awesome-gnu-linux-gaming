@@ -201,13 +201,13 @@ Because we do not agree with Manjaro's practices and outcome. Those are the foll
 		- https://github.com/vizs/manjarno
 
 - **Security and Privacy**
-	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default. The lack of a security policy brings to an increase amount of kernel-level security vulnerabilities. On top of that, the lack of a security policy can also decrease the privacy of the user, because packages will have the permissions to view the whole filesystem, resources and more.
+	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default. The lack of a security policy brings to an increased amount of kernel-level security vulnerabilities. On top of that, the lack of a security policy can also decrease the privacy of the user, because packages will have the permissions to view the whole filesystem, resources and more.
 		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
 	- Manjaro holds back packages for several weeks, **including security updates**, which makes security updates arrive a couple of weeks later. This can potentially decrease the security of a user's device.
 		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
 
 - **Instability and bugs that are non-existant in Arch**
-	- Manjaro has had a lot of issues with bugs and instability that were non-existant in Arch. One example given is a problem of users were having with Pipewire hogging all the RAM of the user:
+	- Manjaro has had a lot of issues with bugs and instability that were non-existant in Arch. One example to this is users had issues with Pipewire hogging all the RAM of their device:
 		- https://forum.manjaro.org/t/after-upgrade-no-sound-pipewire-100-cpu-load-system-freeze/131580
 		- https://forum.manjaro.org/t/troubleshooting-random-system-freeze/106554
 		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/

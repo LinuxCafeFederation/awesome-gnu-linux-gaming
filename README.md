@@ -227,4 +227,11 @@ See [CONTRIBUTING.md](/CONTRIBUTING.md).
 
 ## Special thanks
 
-Special thanks go the [contributors](https://gitlab.com/TheMainGroup/awesome-gnu-linux-gaming/-/graphs/master) that have contributed in this project, to everyone that has suggested something to add or remove, to the developers that have created and contributed those awesome projects, and to the people that have created and contributed to the documentations. This project would never have happened without you :)
+Special thanks go to:
+
+- the [contributors](https://gitlab.com/TheMainGroup/awesome-gnu-linux-gaming/-/graphs/master) that have contributed in this project;
+- everyone that has suggested something to add, remove or fix;
+- the developers and writers that have created and contributed to the awesome projects that we have mentioned;
+- to everyone that has shared this project to others.
+
+This project would never have happened and continued without you :)

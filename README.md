@@ -35,8 +35,6 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Distributions
 
-*From simplest to complex.*
-
 ~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](#why-not-add-manjaro).***
 
 [**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
@@ -65,6 +63,8 @@ This list does provide proprietary software, but they will be exclusively marked
 [**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — Overclocking software with the aesthetics based on AMD's Radeon Software Adrenalin from 2018.
 
 [**QMK**](https://qmk.fm/) — Keyboard firmware based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard).
+
+[**ProtonDB**](https://www.protondb.com/) — Website to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 
 ## Processors
 

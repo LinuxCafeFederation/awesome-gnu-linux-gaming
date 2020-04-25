@@ -16,7 +16,7 @@ This is a list of what we are planning on adding in the future. If something is 
 	- ~~Add [wine-wayland](https://github.com/varmd/wine-wayland)~~
 - ~~Add [Lutris](https://lutris.net/)~~
 - ~~Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)~~
-- Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
+- ~~Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)~~
 - Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
 - ~~Add [QMK](https://github.com/qmk/qmk_firmware)~~
 - Add Development

@@ -47,8 +47,6 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Arch Linux**](https://www.archlinux.org/) — Lightweight and independent distribution to provide as much performance with as less time spent.
 
-[**Clear Linux**](https://clearlinux.org/) — Independent distribution by [Intel](https://en.wikipedia.org/wiki/Intel) with various [patches](https://github.com/clearlinux-pkgs/linux) aimed for performance.
-
 [**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
 

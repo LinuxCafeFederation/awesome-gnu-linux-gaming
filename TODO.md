@@ -14,8 +14,8 @@ This is a list of what we are planning on adding in the future. If something is 
 	- ~~Add [DXVK](https://github.com/doitsujin/dxvk)~~
 		- ~~Add [D9VK](https://github.com/Joshua-Ashton/d9vk)~~
 	- ~~Add [wine-wayland](https://github.com/varmd/wine-wayland)~~
-	- Add [Winetricks](https://wiki.winehq.org/Winetricks)
-	- Add [Protontricks](https://github.com/Matoking/protontricks)
+	- ~~Add [Winetricks](https://wiki.winehq.org/Winetricks)~~
+	- ~~Add [Protontricks](https://github.com/Matoking/protontricks)~~
 - ~~Add [Lutris](https://lutris.net/)~~
 - ~~Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)~~
 - ~~Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)~~

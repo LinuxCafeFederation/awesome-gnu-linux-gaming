@@ -166,6 +166,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**FlightlessMango**](https://www.youtube.com/channel/UCDmXLiZTBaFuCOXjy6mdw5w) — Benchmark comparisons between different operating systems, different hardware and different software, as well as graphics comparisons.
 
+[**Chris Titus Tech**](https://www.youtube.com/playlist?list=PLc7fktTRMBoxAo8k95vnIaPynvk0wXomc) — Focused on technical aspects and also gaming on Linux.
 
 ## Q&As
 

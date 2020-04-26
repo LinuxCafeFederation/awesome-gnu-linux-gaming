@@ -204,7 +204,7 @@ Because we do not agree with Manjaro's practices and outcome. Those are the foll
 		- https://github.com/vizs/manjarno
 
 - **Security and Privacy**
-	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default. The lack of a security policy brings to an increased amount of kernel-level security vulnerabilities. On top of that, the lack of a security policy can also decrease the privacy of the user, because packages will have the permissions to view the whole filesystem, resources and more.
+	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default. The lack of a security policy brings to an [increased amount of kernel-level security vulnerabilities](https://www.cvedetails.com/product/47/Linux-Linux-Kernel.html?vendor_id=33). On top of that, the lack of a security policy can also decrease the privacy of the user, because packages will have the permissions to view the whole filesystem, resources and more.
 		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
 	- Manjaro holds back packages for several weeks, **including security updates**, which makes security updates arrive a couple of weeks later. This can potentially decrease the security of a user's device.
 		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/

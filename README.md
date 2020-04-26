@@ -173,6 +173,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Chris Titus Tech**](https://www.youtube.com/playlist?list=PLc7fktTRMBoxAo8k95vnIaPynvk0wXomc) — Focused on technical aspects and also gaming on Linux.
 
+
 ## Q&As
 
 ### Why create this repository?
@@ -216,6 +217,7 @@ Because we do not agree with Manjaro's practices and outcome. Those are the foll
 	- In the Manjaro wiki, it is written clearly that you "Use the AUR at your own risk!". The issue with this is when using Pamac or Octopi, the users are a couple of clicks away to enabling the AUR, and none tell you about the disadvantages of the AUR.
 		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
 
+**We** do not recommend Manjaro to the users, but we will not restrict you from using it. You are free to use anything you want.
 
 ## Future plans
 

@@ -22,7 +22,7 @@ This list does provide proprietary software, but they will be exclusively marked
 	- [AMD](#amd-1)
 	- [Nvidia](#nvidia)
 - [Platforms](#platforms)
-- [Custom kernels](#custom-kernels)
+- [Kernels](#kernels)
 - [WINE](#wine)
 - [Emulators](#emulators)
 - [Developers](#developers)
@@ -134,11 +134,13 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**BeamDog**](https://www.beamdog.com/) — Online-based game software program which allows players to keep their games up to date with the latest fixes and enhancements.
 
-## Custom kernels
+## Kernels
 
 [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 
 [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
+
+[**sirlucjan / kernel-patches**](https://github.com/sirlucjan/kernel-patches) — Repository with various kernel [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)).
 
 
 ## WINE

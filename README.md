@@ -75,7 +75,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Intel
 
-[**intel-power-control**](https://github.com/jmechnich/intel-power-control) — A GUI GPU power management tool for Intel hardware.
+[**intel-power-control**](https://github.com/jmechnich/intel-power-control) — A [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) tool to adjust the core clock and voltage of Intel [iGPU](https://en.wikipedia.org/wiki/Graphics_processing_unit#INTEGRATED)s.
 
 ## Graphics cards
 

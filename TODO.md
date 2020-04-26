@@ -41,6 +41,6 @@
 	- [ ] https://github.com/tkashkin/GameHub
 	- [ ] https://wiki.archlinux.org/index.php/Gaming
 	- [ ] https://lutris.net/games/
-	- [ ] https://www.protondb.com/explore
+	- [x] https://www.protondb.com/
 - [x] Add F.A.Q.
 - [x] Add Future plans

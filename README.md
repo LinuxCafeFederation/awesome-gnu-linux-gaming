@@ -21,7 +21,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - [Graphics cards](#graphics-cards)
 	- [AMD](#amd-1)
 	- [Nvidia](#nvidia)
-- [Gaming platforms](#gaming-platforms)
+- [Platforms](#platforms)
 - [Custom kernels](#custom-kernels)
 - [WINE](#wine)
 - [Emulators](#emulators)
@@ -114,11 +114,11 @@ This list does provide proprietary software, but they will be exclusively marked
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
 
-## Gaming platforms
+## Platforms
 
 [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers. It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux. — **WARNING: Proprietary Software!**
 
-[**Lutris**](https://lutris.net/) — [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, listed under the GNU General Public License.
+[**Lutris**](https://lutris.net/) — Client with install scripts provided by the community to utilise applications and games without the hassle of manually setting them up.
 
 [**GOG**](https://www.gog.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) to provide third-party [DRM](https://en.wikipedia.org/wiki/Digital_rights_management)-free games. — **WARNING: Proprietary Software!**
 - [**Minigalaxy**](https://github.com/sharkwouter/minigalaxy) — A simple GTK GOG client for Linux.

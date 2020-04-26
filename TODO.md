@@ -40,7 +40,7 @@
 	- [ ] https://www.reddit.com/r/linux_gaming/comments/edaq0s/guide_migrating_to_linux_in_2020/
 	- [ ] https://github.com/tkashkin/GameHub
 	- [ ] https://wiki.archlinux.org/index.php/Gaming
-	- [ ] https://lutris.net/games/
+	- [x] https://lutris.net
 	- [x] https://www.protondb.com/
 - [x] Add F.A.Q.
 - [x] Add Future plans

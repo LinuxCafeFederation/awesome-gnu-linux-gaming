@@ -26,10 +26,10 @@
 	- [x] [ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)
 	- [x] [Custom Xorg configuration (eliminate screen tearing)](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)
 	- [x] [Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)
-	- [ ] [vibrantLinux-AMD](https://github.com/Scrumplex/vibrantLinux-AMD)
+	- [x] [vibrantLinux-AMD](https://github.com/Scrumplex/vibrantLinux-AMD)
 - Add Nvidia GPU
 	- [ ] [Reference Arch wiki: NVIDIA / Tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks)
-	- [ ] [vibrantLinux](https://github.com/zee-mzha/vibrantLinux)
+	- [x] [vibrantLinux](https://github.com/zee-mzha/vibrantLinux)
 - Custom kernel
 	- [ ] [CK patchsets](http://ck.kolivas.org/)
 	- [x] [ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)

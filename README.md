@@ -52,7 +52,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Utilities
 
-[**GameMode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand.
+[**GameMode**](https://github.com/FeralInteractive/gamemode) — A **systemd** daemon/lib to optimise Linux system performance on demand. — **WARNING: this utility will not work in the distributions listed in the following website: [Wikipedia: Linux distributions without systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd)**
 
 [**MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 

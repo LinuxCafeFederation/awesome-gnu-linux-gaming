@@ -89,6 +89,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**AMDGPU Clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
+[**vibrantLinux-AMD**](https://github.com/Scrumplex/vibrantLinux-AMD) — Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on AMD GPUs.**
+
 #### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
@@ -113,6 +115,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
+[**vibrantLinux**](https://github.com/zee-mzha/vibrantLinux) — Inspired by [vibranceGUI](https://github.com/juv/vibranceGUI) to port in Linux; utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on Nvidia GPUs.**
 
 ## Platforms
 

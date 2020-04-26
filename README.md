@@ -120,6 +120,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Lutris**](https://lutris.net/) — Client with install scripts provided by the community to utilise applications and games without the hassle of manually setting them up.
 
+[**GameHub**](https://github.com/tkashkin/GameHub) — Unified library for all your games. It supports all games from [GOG](https://www.gog.com/), [Steam](https://store.steampowered.com/), [HumbleBundle](https://www.humblebundle.com/) and [Humble Trove](https://www.humblebundle.com/subscription/trove).
+
 [**GOG**](https://www.gog.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [CD Projekt](https://en.wikipedia.org/wiki/CD_Projekt) to provide third-party [DRM](https://en.wikipedia.org/wiki/Digital_rights_management)-free games. — **WARNING: Proprietary Software!**
 - [**Minigalaxy**](https://github.com/sharkwouter/minigalaxy) — A simple GTK GOG client for Linux.
 

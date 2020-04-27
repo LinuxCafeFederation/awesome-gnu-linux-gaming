@@ -134,6 +134,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**BeamDog**](https://www.beamdog.com/) — Online-based game software program which allows players to keep their games up to date with the latest fixes and enhancements.
 
+[**Legendary**](https://github.com/derrod/legendary) — CLI client to launch games from the Epic Games Store.
+
 ## Kernels
 
 [**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.

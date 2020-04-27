@@ -25,7 +25,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - [Kernels](#kernels)
 - [WINE](#wine)
 - [Emulators](#emulators)
-- [Developers](#developers)
+- [Development](#development)
 - [YouTube channels](#youtube-channels)
 - [Q&As](#qas)
 - [Future plans](#future-plans)
@@ -66,6 +66,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**ProtonDB**](https://www.protondb.com/) — Website to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 
+
 ## Processors
 
 ### AMD
@@ -73,7 +74,7 @@ This list does provide proprietary software, but they will be exclusively marked
 [**RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
 - [**Ryzen Controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Fork [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) with a front-end (GUI).
 
-## Intel
+### Intel
 
 [**intel-power-control**](https://github.com/jmechnich/intel-power-control) — A [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) tool to adjust the core clock and voltage of Intel [iGPU](https://en.wikipedia.org/wiki/Graphics_processing_unit#INTEGRATED)s.
 
@@ -117,6 +118,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**vibrantLinux**](https://github.com/zee-mzha/vibrantLinux) — Inspired by [vibranceGUI](https://github.com/juv/vibranceGUI) to port in Linux; utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on Nvidia GPUs.**
 
+
 ## Platforms
 
 [**Steam**](https://store.steampowered.com/) — Video game [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution) developed by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to provide games from third-party publishers. It also offers [Proton](https://github.com/ValveSoftware/Proton) (a fork of [WINE](https://wiki.winehq.org)) to facilitate gaming on Linux. — **WARNING: Proprietary Software!**
@@ -135,6 +137,7 @@ This list does provide proprietary software, but they will be exclusively marked
 [**BeamDog**](https://www.beamdog.com/) — Online-based game software program which allows players to keep their games up to date with the latest fixes and enhancements.
 
 [**Legendary**](https://github.com/derrod/legendary) — CLI client to launch games from the Epic Games Store.
+
 
 ## Kernels
 
@@ -171,7 +174,7 @@ This list does provide proprietary software, but they will be exclusively marked
 [**taminaru / awesome-emulators-simulators**](https://github.com/taminaru/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
 
 
-## Developers
+## Development
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems. — **WARNING: Proprietary Software!**
 
@@ -229,13 +232,16 @@ Because we do not agree with Manjaro's practices and outcome. Those are the foll
 
 **We** do not recommend Manjaro to the users, but we will not restrict you from using it. You are free to use anything you want.
 
+
 ## Future plans
 
 Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).
 
+
 ## Contributing
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
+
 
 ## Special thanks
 

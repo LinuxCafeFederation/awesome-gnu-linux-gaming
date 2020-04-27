@@ -1,40 +1,49 @@
 # TODO.md
 
-- [x] Add [FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode)
-- [x] Add [flightlessmango / MangoHud](https://github.com/flightlessmango/MangoHud)
-- [x] Add [benjamimgois / GOverlay](https://github.com/benjamimgois/goverlay)
-- [x] Add [DadSchoorse / vkBasalt](https://github.com/DadSchoorse/vkBasalt)
-- [x] Add [Proton](https://github.com/ValveSoftware/Proton)
-- [x] Add [GloriousEggroll / proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
-- [x] Add [WINE](https://www.winehq.org/)
-	- [x] Add [WINE Staging](https://wiki.winehq.org/Wine-Staging)
-	- [x] Add [VKD3D](https://github.com/d3d12/vkd3d)
-	- [x] Add [DXVK](https://github.com/doitsujin/dxvk)
-		- [x] Add [D9VK](https://github.com/Joshua-Ashton/d9vk)
-	- [x] Add [wine-wayland](https://github.com/varmd/wine-wayland)
-	- [x] Add [Winetricks](https://wiki.winehq.org/Winetricks)
-	- [x] Add [Protontricks](https://github.com/Matoking/protontricks)
-- [x] Add [Lutris](https://lutris.net/)
-- [x] Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)
-- [x] Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
-- [ ] Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
-- [x] Add [QMK](https://github.com/qmk/qmk_firmware)
-- [ ] Add Development
-	- [ ] Add [Godot](https://godotengine.org/)
-	- [ ] Add [Blender](https://www.blender.org/)
-- Add AMD GPU
+- Utilities
+	- [x] Add [GameMode](https://github.com/FeralInteractive/gamemode)
+	- [x] Add [MangoHud](https://github.com/flightlessmango/MangoHud)
+	- [x] Add [GOverlay](https://github.com/benjamimgois/goverlay)
+	- [x] Add [vkBasalt](https://github.com/DadSchoorse/vkBasalt)
+	- [x] Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)
+	- [x] Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
+	- [ ] Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
+	- [x] Add [QMK](https://github.com/qmk/qmk_firmware)
+- AMD GPU
 	- [x] [ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)
 	- [x] [Custom Xorg configuration (eliminate screen tearing)](https://wiki.archlinux.org/index.php/AMDGPU#Xorg_configuration)
 	- [x] [Overclocking](https://wiki.archlinux.org/index.php/AMDGPU#Overclocking)
 	- [x] [vibrantLinux-AMD](https://github.com/Scrumplex/vibrantLinux-AMD)
-- Add Nvidia GPU
+- Nvidia GPU
 	- [ ] [Reference Arch wiki: NVIDIA / Tips and tricks](https://wiki.archlinux.org/index.php/NVIDIA/Tips_and_tricks)
 	- [x] [vibrantLinux](https://github.com/zee-mzha/vibrantLinux)
-- Custom kernel
+- Platforms
+	- [x] Add [Lutris](https://lutris.net/)
+	- [x] Add [GameHub](https://github.com/tkashkin/GameHub)
+	- [x] Add [GOG](https://www.gog.com/)
+	- [x] Add [Steam](https://store.steampowered.com/)
+- Kernels
 	- [ ] [CK patchsets](http://ck.kolivas.org/)
 	- [x] [ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)
 	- [ ] [Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)
 	- [x] [Add XanMod](https://xanmod.org/)
+	- [ ] [Add TKG](https://github.com/Frogging-Family/wine-tkg-git)
+	- [x] [Add sirlucjan / kernel-patches](https://github.com/sirlucjan/kernel-patches)
+- WINE
+	- [x] Add [WINE](https://www.winehq.org/)
+		- [x] Add [WINE Staging](https://wiki.winehq.org/Wine-Staging)
+		- [x] Add [VKD3D](https://github.com/d3d12/vkd3d)
+		- [x] Add [DXVK](https://github.com/doitsujin/dxvk)
+			- [x] Add [D9VK](https://github.com/Joshua-Ashton/d9vk)
+		- [x] Add [wine-wayland](https://github.com/varmd/wine-wayland)
+		- [x] Add [Winetricks](https://wiki.winehq.org/Winetricks)
+		- [x] Add [Protontricks](https://github.com/Matoking/protontricks)
+		- [x] Add [Proton](https://github.com/ValveSoftware/Proton)
+		- [x] Add [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
+- Development
+	- [ ] Add [Godot](https://godotengine.org/)
+	- [ ] Add [Blender](https://www.blender.org/)
+	- [x] Add [Ogre](https://www.ogre3d.org/)
 - Add references
 	- [ ] https://www.icculus.org/lgfaq/gamelist.php
 	- [ ] https://www.gigablast.com/Top/Games/Video_Games/

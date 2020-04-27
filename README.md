@@ -173,6 +173,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems. — **WARNING: Proprietary Software!**
 
+[**Ogre**](https://www.ogre3d.org/) — Cross Platform and Cross Language open source engine written in C++.
 
 ## YouTube channels
 

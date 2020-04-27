@@ -11,6 +11,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 This list does provide proprietary software, but they will be exclusively marked as "**WARNING: Proprietary Software!**".
 
+
 ## Table of contents
 
 - [Distributions](#distributions)

@@ -194,11 +194,11 @@ Due to the recent change of ownership to GitHub, the open source project hosting
 
 ### Why not just contribute to the Arch wiki?
 
-I am aware of the [Arch wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) page, but despite the Arch wiki having constant attention, it is not a place where people take the time to look in. I did contribute in the Arch wiki, but I realised that not many people look into it, so I did not bother. [Here is an example in Reddit](https://www.reddit.com/r/linux_gaming/comments/fyuqc7/a_fantastic_amd_gpu_gui_software_for_linux/fn2723y?utm_source=share&utm_medium=web2x) of a person recently discovering [CoreCtrl](), when it was mentioned in the [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#GUI_tools) a couple of months ago.
+I am aware of the [Arch wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) page, but despite the Arch wiki having constant attention, it is not a place where people take the time and effort to look at it. I did contribute in the Arch wiki several times, but I then realised that not many people will look into it despite having this much attention, so I stopped contributing. [Here is an example in Reddit](https://www.reddit.com/r/linux_gaming/comments/fyuqc7/a_fantastic_amd_gpu_gui_software_for_linux/fn2723y?utm_source=share&utm_medium=web2x) of a person recently discovering CoreCtrl, when it was mentioned in the [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#GUI_tools) a couple of months prior to the date of the release of the thread.
 
 #### Why not just promote it then?
 
-Because the Arch wiki has been promoted by many youtubers, and it is also a meme for the epicc arch linux users btw xddd!1!11
+Because the Arch wiki has been promoted by many youtubers already, and it is also a meme for the epicc arch linux users btw xddd!1!11
 
 ### Why not add Manjaro?
 

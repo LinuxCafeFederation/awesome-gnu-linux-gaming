@@ -67,6 +67,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**ProtonDB**](https://www.protondb.com/) — Website to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 
+[**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Client for PlayStation 4 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows and potentially even more platforms.
+
 
 ## Processors
 

@@ -63,7 +63,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**CoreCtrl**](https://gitlab.com/corectrl/corectrl) — Overclocking software with the aesthetics based on AMD's Radeon Software Adrenalin from 2018.
 
-[**QMK**](https://qmk.fm/) — Keyboard firmware based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard).
+[**QMK**](https://qmk.fm/) — Keyboard firmware to customize key switches. Based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard).
 
 [**ProtonDB**](https://www.protondb.com/) — Website to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 

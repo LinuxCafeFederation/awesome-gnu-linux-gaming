@@ -234,6 +234,8 @@ Because we do not agree with Manjaro's practices and outcome. Those are the foll
 - **Extras**
 	- In the Manjaro wiki, it is written clearly that you "Use the AUR at your own risk!". The issue with this is when using Pamac or Octopi, the users are a couple of clicks away to enabling the AUR, and none tell you about the disadvantages of the AUR.
 		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
+	- Manjaro's PKGBUILD repository **does not** show the latest versions. For example, the latest version of GNOME Shell released in Manjaro is `gnome-shell-3.36.*`, but the version provided in the repository is `gnome-shell-3.34.3`, which was three months ago of the day of this text (April 28, 2020).
+		- https://gitlab.manjaro.org/arch-packages/extra/gnome-shell/-/commits/packages/gnome-shell/repos/extra-x86_64/PKGBUILD
 
 **We** do not recommend Manjaro to the users, but we will not restrict you from using it. You are free to use anything you want.
 

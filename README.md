@@ -216,8 +216,7 @@ Because the Arch wiki has been promoted by many youtubers already, and it is als
 Because we do not agree with Manjaro's practices and outcome. Those are the following:
 
 - **Developers**
-	- The Manjaro developers have done a lot of controversies. There are some articles that summarise Manjaro team's lack of proper maintenance to the distribution:
-		- https://rentry.co/manjaro-controversies
+	- The Manjaro developers have done a lot of controversies. There is a brief summary that explains the lack of proper maintenance to the distribution:
 		- https://github.com/vizs/manjarno
 
 - **Security and Privacy**

@@ -40,7 +40,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
 
-[**Kubuntu**](https://kubuntu.org/) — [Flavour of Ubuntu](https://ubuntu.com/download/flavours) with a [Plasma](https://kde.org/plasma-desktop) desktop to facilitate Windows users to switch to Linux thanks to its familiar [user experience](https://en.wikipedia.org/wiki/User_experience).
+[**Linux Mint**](https://www.linuxmint.com/) — Based on [Ubuntu](https://ubuntu.com/). Comes with the [Cinnamon desktop](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)). Built for Windows users in mind, to facilitate switching from Windows to GNU/Linux thanks to its familiarity.
 
 [**Fedora**](https://getfedora.org/) — Based on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux). Comes with some performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
 

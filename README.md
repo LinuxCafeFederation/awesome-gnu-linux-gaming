@@ -66,6 +66,7 @@ This list does provide proprietary software, but they will be exclusively marked
 [**QMK**](https://qmk.fm/) — Keyboard firmware to customize key switches. Based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard).
 
 [**ProtonDB**](https://www.protondb.com/) — Website to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
+- [**ProtonDB-Tags**](https://github.com/CorruptComputer/ProtonDB-Tags) — A small Python script to pull ratings from ProtonDB and import them into your Steam library as tags.
 
 [**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Client for PlayStation 4 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows and potentially even more platforms.
 

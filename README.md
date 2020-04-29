@@ -71,7 +71,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - [**ProtonDB**](https://www.protondb.com/) — Website maintained by a community to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 	- [**ProtonDB-Tags**](https://github.com/CorruptComputer/ProtonDB-Tags) — A small Python script to pull ratings from ProtonDB and import them into your Steam library as tags.
 
-[**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Client for PlayStation 4 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows and potentially even more platforms.
+[**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Cross-platform client for PlayStation 4 Remote Play.
 
 
 ## Processors

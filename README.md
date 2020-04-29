@@ -50,6 +50,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Gentoo**](https://www.gentoo.org/) — Minimal and secure source based distribution to maximise performance.
 
+[**Frogging-Family / community-patches**](https://github.com/Frogging-Family/community-patches) — A list of patches maintained by the community.
+
 
 ## Utilities
 

@@ -41,8 +41,8 @@
 		- [x] Add [Proton](https://github.com/ValveSoftware/Proton)
 		- [x] Add [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)
 - Development
-	- [ ] Add [Godot](https://godotengine.org/)
-	- [ ] Add [Blender](https://www.blender.org/)
+	- [x] Add [Godot](https://godotengine.org/)
+	- [x] Add [Blender](https://www.blender.org/)
 	- [x] Add [Ogre](https://www.ogre3d.org/)
 - Add references
 	- [ ] https://www.icculus.org/lgfaq/gamelist.php

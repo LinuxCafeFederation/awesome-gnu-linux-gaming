@@ -7,7 +7,7 @@
 	- [x] Add [vkBasalt](https://github.com/DadSchoorse/vkBasalt)
 	- [x] Add [CoreCtrl](https://gitlab.com/corectrl/corectrl)
 	- [x] Add [Minigalaxy](https://github.com/sharkwouter/minigalaxy)
-	- [ ] Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
+	- [x] Add [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)
 	- [x] Add [QMK](https://github.com/qmk/qmk_firmware)
 - AMD GPU
 	- [x] [ACO compiler](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler)

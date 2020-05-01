@@ -59,10 +59,6 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**QMK**](https://qmk.fm/) — Keyboard firmware to customize key switches. Based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard).
 
-[**AppDB**](https://appdb.winehq.org/) — Website maintained by [WINE HQ](https://www.winehq.org/) to track reports and ratings of video games.
-- [**ProtonDB**](https://www.protondb.com/) — Website maintained by a community to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
-	- [**ProtonDB-Tags**](https://github.com/CorruptComputer/ProtonDB-Tags) — A small Python script to pull ratings from ProtonDB and import them into your Steam library as tags.
-
 [**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Cross-platform client for PlayStation 4 Remote Play. — [Video](https://www.youtube.com/watch?v=w_9eyUgdaYg)
 
 [**ZeroTierOne**](https://github.com/zerotier/ZeroTierOne) — Programmable Ethernet switch that allows all networked devices, VMs, containers, and applications to communicate as if they all reside in the same physical data center or cloud region, similar to [LogMeIn Hamachi](https://en.wikipedia.org/wiki/LogMeIn_Hamachi).
@@ -76,6 +72,21 @@ This list does provide proprietary software, but they will be exclusively marked
 [**vkBasalt**](https://github.com/DadSchoorse/vkBasalt) — A Vulkan post processing layer to enhance the visual graphics of games while barely impacting performance. — [Video](https://www.youtube.com/watch?v=hSlaGkbTRi8&t=55s)
 
 [**GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as [MangoHud](https://github.com/flightlessmango/MangoHud) and [vkBasalt](https://github.com/DadSchoorse/vkBasalt). — [Video](https://www.youtube.com/watch?v=-2OmhsGnsIk)
+
+### Websites
+
+[**AppDB**](https://appdb.winehq.org/) — Website maintained by [WINE HQ](https://www.winehq.org/) to track reports and ratings of video games.
+- [**ProtonDB**](https://www.protondb.com/) — Website maintained by a community to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
+	- [**ProtonDB-Tags**](https://github.com/CorruptComputer/ProtonDB-Tags) — A small Python script to pull ratings from ProtonDB and import them into your Steam library as tags.
+
+[**Open Source Game Clones**](https://osgameclones.com/) — A list of open source game alternatives to their proprietary counterparts.
+
+[**The Linux Gamers' Game List**](https://www.icculus.org/lgfaq/gamelist.php) — A list of games that work natively in Linux.
+
+
+[**Arch Wiki / Gaming**](https://wiki.archlinux.org/index.php/Gaming) — A list of information about running games and related system configuration tips. 
+
+[**LibreGaming Wiki**](https://libregamewiki.org/Main_Page) — A wiki of free, libre and open source games and related topics.
 
 
 ## Processors

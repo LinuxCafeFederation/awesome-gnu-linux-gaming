@@ -44,6 +44,7 @@
 	- [x] Add [Godot](https://godotengine.org/)
 	- [x] Add [Blender](https://www.blender.org/)
 	- [x] Add [Ogre](https://www.ogre3d.org/)
+	- [x] Add [awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
 - Add references
 	- [ ] https://www.icculus.org/lgfaq/gamelist.php
 	- [ ] https://www.gigablast.com/Top/Games/Video_Games/

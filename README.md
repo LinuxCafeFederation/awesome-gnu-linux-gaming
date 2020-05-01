@@ -73,6 +73,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Chiaki**](https://github.com/thestr4ng3r/chiaki) — Cross-platform client for PlayStation 4 Remote Play. — [Video](https://www.youtube.com/watch?v=w_9eyUgdaYg)
 
+[**ZeroTierOne**](https://github.com/zerotier/ZeroTierOne) — Programmable Ethernet switch that allows all networked devices, VMs, containers, and applications to communicate as if they all reside in the same physical data center or cloud region, similar to [LogMeIn Hamachi](https://en.wikipedia.org/wiki/LogMeIn_Hamachi).
+
 
 ## Processors
 

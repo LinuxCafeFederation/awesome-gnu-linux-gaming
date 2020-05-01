@@ -46,12 +46,12 @@
 	- [x] Add [Ogre](https://www.ogre3d.org/)
 	- [x] Add [awesome-vulkan](https://github.com/vinjn/awesome-vulkan)
 - Add references
-	- [ ] https://www.icculus.org/lgfaq/gamelist.php
+	- [x] https://www.icculus.org/lgfaq/gamelist.php
 	- [ ] https://www.gigablast.com/Top/Games/Video_Games/
-	- [ ] https://osgameclones.com/
+	- [x] https://osgameclones.com/
 	- [ ] https://www.reddit.com/r/linux_gaming/comments/edaq0s/guide_migrating_to_linux_in_2020/
 	- [x] https://github.com/tkashkin/GameHub
-	- [ ] https://wiki.archlinux.org/index.php/Gaming
+	- [x] https://wiki.archlinux.org/index.php/Gaming
 	- [x] https://lutris.net
 	- [x] https://www.protondb.com/
 - [x] Add F.A.Q.

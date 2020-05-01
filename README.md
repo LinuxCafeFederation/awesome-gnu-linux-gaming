@@ -91,7 +91,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ### AMD
 
-**NOTE: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
+**Note: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
 
 [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 
@@ -118,7 +118,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 #### [**Drivers**](https://www.nvidia.com/en-us/drivers/unix/) — **WARNING: Proprietary Software!**
 
-**NOTE: It is not advised to install the driver through the package provided from the NVIDIA website. It is better to install it through the distribution's package manager.**
+**Note: It is not advised to install the driver through the package provided from the NVIDIA website. It is better to install it through the distribution's package manager.**
 
 - **Debian** — https://wiki.debian.org/NvidiaGraphicsDrivers#Installation
 - **Arch Linux** — https://wiki.archlinux.org/index.php/NVIDIA#Installation

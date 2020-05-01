@@ -195,6 +195,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Blender**](https://www.blender.org/) — 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, and computer games.
 
+[**vinjn / awesome-vulkan**](https://github.com/vinjn/awesome-vulkan) — A curated list of awesome Vulkan libraries, debuggers and resources.
+
 
 ## YouTube channels
 

@@ -83,7 +83,7 @@ This list does provide proprietary software, but they will be exclusively marked
 ### AMD
 
 [**RyzenAdj**](https://github.com/FlyGoat/RyzenAdj) — CLI tool to adjust core clock and voltage of Ryzen processors.
-- [**Ryzen Controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Fork [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) with a front-end (GUI).
+- [**Ryzen Controller**](https://gitlab.com/ryzen-controller-team/ryzen-controller) — Graphical UI for [RyzenAdj](https://github.com/FlyGoat/RyzenAdj).
 
 ### Intel
 

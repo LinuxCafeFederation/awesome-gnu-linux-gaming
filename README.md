@@ -189,7 +189,11 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**μProf**](https://developer.amd.com/amd-uprof/) — Performance analysis tool for AMD for applications running on Windows and Linux operating systems. — **WARNING: Proprietary Software!**
 
-[**Ogre**](https://www.ogre3d.org/) — Cross Platform and Cross Language open source engine written in C++.
+[**Ogre**](https://www.ogre3d.org/) — Cross-platform and cross-language open source engine written in C++.
+
+[**Godot**](https://godotengine.org/) — 2D and 3D cross-platform game engine written in C, C++.
+
+[**Blender**](https://www.blender.org/) — 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, and computer games.
 
 
 ## YouTube channels

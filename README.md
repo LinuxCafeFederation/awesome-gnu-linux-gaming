@@ -114,6 +114,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**vibrantLinux-AMD**](https://github.com/Scrumplex/vibrantLinux-AMD) — Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on AMD GPUs.**
 
+[**amdvbflash**](https://github.com/patrickschur/amdvbflash) — Guide to flash an AMD GPU's [vBIOS](https://en.wikipedia.org/wiki/Video_BIOS). — [Guide](https://andrealmeid.com/post/2020-05-01-vbios2/)
+
 #### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**

@@ -27,7 +27,7 @@
 	- [x] ~~[ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)~~
 	- [ ] ~~[Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)~~
 	- [x] [Add XanMod](https://xanmod.org/)
-	- [ ] [Add TKG](https://github.com/Frogging-Family/wine-tkg-git)
+	- [x] [Add TKG](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg)
 	- [x] [Add sirlucjan / kernel-patches](https://github.com/sirlucjan/kernel-patches)
 - WINE
 	- [x] Add [WINE](https://www.winehq.org/)

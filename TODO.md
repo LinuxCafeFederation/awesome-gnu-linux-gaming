@@ -23,9 +23,9 @@
 	- [x] Add [GOG](https://www.gog.com/)
 	- [x] Add [Steam](https://store.steampowered.com/)
 - Kernels
-	- [ ] [CK patchsets](http://ck.kolivas.org/)
-	- [x] [ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)
-	- [ ] [Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)
+	- [ ] ~~[CK patchsets](http://ck.kolivas.org/)~~
+	- [x] ~~[ZEN/Liquorix patchsets](https://github.com/zen-kernel/zen-kernel)~~
+	- [ ] ~~[Post Factum patchsets](https://gitlab.com/post-factum/pf-kernel)~~
 	- [x] [Add XanMod](https://xanmod.org/)
 	- [ ] [Add TKG](https://github.com/Frogging-Family/wine-tkg-git)
 	- [x] [Add sirlucjan / kernel-patches](https://github.com/sirlucjan/kernel-patches)

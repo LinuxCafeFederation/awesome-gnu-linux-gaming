@@ -169,9 +169,11 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg) — A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Only available in Arch-based distributions!**
 
+[**gloriouseggroll / kernel**](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/kernel/) — Latest upstream Linux kernel in addition of the [TKG](https://github.com/Frogging-Family/linux-tkg/tree/9b8bb89cd3775f0090ee3bff8545ac73603e42cc) patchsets. — **Only available in Fedora!**
+
 [**sirlucjan / kernel-patches**](https://github.com/sirlucjan/kernel-patches) — Repository with various kernel [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)).
 
-[**gloriouseggroll / kernel**](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/kernel/) — Latest upstream Linux kernel in addition of the [TKG](https://github.com/Frogging-Family/linux-tkg/tree/9b8bb89cd3775f0090ee3bff8545ac73603e42cc) patchsets. — **Only available in Fedora!**
+[**Arch wiki / Kernel**](https://wiki.archlinux.org/index.php/Kernel) — Arch wiki page describing various Linux kernels.
 
 
 ## WINE

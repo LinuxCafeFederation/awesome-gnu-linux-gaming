@@ -165,8 +165,6 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Kernels
 
-[**ZEN/Liquorix**](https://liquorix.net/) — Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
-
 [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 
 [**sirlucjan / kernel-patches**](https://github.com/sirlucjan/kernel-patches) — Repository with various kernel [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)).

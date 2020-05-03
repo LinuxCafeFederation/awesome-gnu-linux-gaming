@@ -167,9 +167,11 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**XanMod**](https://xanmod.org/) — A general-purpose Linux kernel aimed for performance and to provide more features. 
 
+[**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg) — A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Only available in Arch-based distributions!**
+
 [**sirlucjan / kernel-patches**](https://github.com/sirlucjan/kernel-patches) — Repository with various kernel [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)).
 
-[**gloriouseggroll / kernel**](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/kernel/) — Latest upstream Linux kernel in addition of the [TKG](https://github.com/Frogging-Family/linux-tkg/tree/9b8bb89cd3775f0090ee3bff8545ac73603e42cc) patchsets. — **WARNING: only available in Fedora.**
+[**gloriouseggroll / kernel**](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/kernel/) — Latest upstream Linux kernel in addition of the [TKG](https://github.com/Frogging-Family/linux-tkg/tree/9b8bb89cd3775f0090ee3bff8545ac73603e42cc) patchsets. — **Only available in Fedora!**
 
 
 ## WINE

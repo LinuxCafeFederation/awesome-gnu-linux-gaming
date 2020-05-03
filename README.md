@@ -79,14 +79,14 @@ This list does provide proprietary software, but they will be exclusively marked
 - [**ProtonDB**](https://www.protondb.com/) — Website maintained by a community to track reports and ratings of video games written by other users for [Steam](https://store.steampowered.com/) and [Proton](https://github.com/ValveSoftware/Proton).
 	- [**ProtonDB-Tags**](https://github.com/CorruptComputer/ProtonDB-Tags) — A small Python script to pull ratings from ProtonDB and import them into your Steam library as tags.
 
+[**GamingOnLinux**](https://www.gamingonlinux.com/) — The home of Linux and SteamOS gaming. Covering Linux Gaming News, Linux Games, SteamOS, Indie Game Reviews and more.
+- [**GamingOnLinux wiki**](https://www.gamingonlinux.com/wiki/) — GamingOnLinux' official wiki focusing on various topics of gaming on Linux, such as games, engines, guides and more.
+
 [**Open Source Game Clones**](https://osgameclones.com/) — A list of open source game alternatives to their proprietary counterparts.
 
 [**The Linux Gamers' Game List**](https://www.icculus.org/lgfaq/gamelist.php) — A list of games that work natively in Linux.
 
-
 [**Arch Wiki / Gaming**](https://wiki.archlinux.org/index.php/Gaming) — A list of information about running games and related system configuration tips. 
-
-[**LibreGaming Wiki**](https://libregamewiki.org/Main_Page) — A wiki of free, libre and open source games and related topics.
 
 
 ## Processors

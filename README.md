@@ -73,6 +73,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**GOverlay**](https://github.com/benjamimgois/goverlay) — A Graphical UI to manage Linux overlays, such as [MangoHud](https://github.com/flightlessmango/MangoHud) and [vkBasalt](https://github.com/DadSchoorse/vkBasalt). — [Video](https://www.youtube.com/watch?v=-2OmhsGnsIk)
 
+[**DiscordOverlayLinux**](https://github.com/trigg/DiscordOverlayLinux) — Discord Overlay for Linux.
+
 ### Websites
 
 [**AppDB**](https://appdb.winehq.org/) — Website maintained by [WINE HQ](https://www.winehq.org/) to track reports and ratings of video games.

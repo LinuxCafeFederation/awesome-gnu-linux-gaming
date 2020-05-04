@@ -42,7 +42,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Linux Mint**](https://www.linuxmint.com/) — Based on [Ubuntu](https://ubuntu.com/). Comes with the [Cinnamon desktop](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)). Built for Windows users in mind, to facilitate switching from Windows to GNU/Linux thanks to its familiarity.
 
-[**Fedora**](https://getfedora.org/) — Based on [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux). Comes with some performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
+[**Fedora**](https://getfedora.org/) — Community maintained distribution to provide the [upstream](https://en.wikipedia.org/wiki/Upstream_(software_development)) kernel in correlation with stable packages. Comes with performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
 
 [**Alpine Linux**](https://www.alpinelinux.org/) — Minimal, simple and secure binary based distribution aimed for performance.
 

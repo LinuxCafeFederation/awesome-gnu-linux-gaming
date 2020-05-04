@@ -114,7 +114,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**AMDGPU Clocks**](https://github.com/sibradzic/amdgpu-clocks) — CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
-[**vibrantLinux-AMD**](https://github.com/Scrumplex/vibrantLinux-AMD) — Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on AMD GPUs.**
+[**vibrantLinux-AMD**](https://github.com/Scrumplex/vibrantLinux-AMD) — Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **Only for AMD GPUs.**
 
 [**amdvbflash**](https://github.com/patrickschur/amdvbflash) — Tool to flash AMD GPU's [vBIOS](https://en.wikipedia.org/wiki/Video_BIOS)es. — [Guide](https://andrealmeid.com/post/2020-05-01-vbios2/)
 
@@ -142,7 +142,7 @@ This list does provide proprietary software, but they will be exclusively marked
 - **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
-[**vibrantLinux**](https://github.com/zee-mzha/vibrantLinux) — Inspired by [vibranceGUI](https://github.com/juv/vibranceGUI) to port in Linux; utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **WARNING: only works on Nvidia GPUs.**
+[**vibrantLinux**](https://github.com/zee-mzha/vibrantLinux) — Inspired by [vibranceGUI](https://github.com/juv/vibranceGUI) to port in Linux; utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **Only for Nvidia GPUs.**
 
 
 ## Platforms

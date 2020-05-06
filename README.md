@@ -227,6 +227,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Egee**](https://www.youtube.com/user/EtherealGaming1) — Reviews, benchmark comparisons of different GNU/Linux distributions and installation guides of games. 
 
+[**Intelligent Gaming**](https://www.youtube.com/channel/UCH4d4o0Otxa7BNYs5Z5UEjg/videos) — Linux gaming tutorials and gameplay.
+
 
 ## Q&As
 

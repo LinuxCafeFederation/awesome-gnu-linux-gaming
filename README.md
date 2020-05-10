@@ -65,6 +65,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Frogging-Family / community-patches**](https://github.com/Frogging-Family/community-patches) — A list of patches maintained by the community.
 
+[**Luxtorpeda**](https://github.com/dreamer/luxtorpeda) — Steam Play compatibility tool to run games using native Linux engines.
+
 ### Overlays
 
 [**MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. — [Video](https://www.youtube.com/watch?v=RbOY0TmArH0)

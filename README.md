@@ -222,6 +222,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**vinjn / awesome-vulkan**](https://github.com/vinjn/awesome-vulkan) — A curated list of awesome Vulkan libraries, debuggers and resources.
 
+[**eug / awesome-opengl**](https://github.com/eug/awesome-opengl) — A curated list of awesome OpenGL libraries, debuggers and resources.
+
 
 ## YouTube channels
 

@@ -92,6 +92,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Arch Wiki / Gaming**](https://wiki.archlinux.org/index.php/Gaming) — A list of information about running games and related system configuration tips. 
 
+[**VR Software Status**](https://gitlab.com/vr-on-linux/VR-on-Linux) — Repository containing the status of Steam games.
+
 
 ## Processors
 

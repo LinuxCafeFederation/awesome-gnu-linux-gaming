@@ -36,7 +36,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Distributions
 
-~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](#why-not-add-manjaro).***
+~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](/Q&AS.md#why-not-add-manjaro).***
 
 [**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
 
@@ -240,50 +240,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Q&As
 
-### Why create this repository?
-
-The reason behind this action could be explained by the lack of repositories which has managed to unite tips & tricks and resources regarding GNU/Linux gaming in one repository with the aim of reducing the amount of search queries required by the user to look up certain information regarding the situation of a game on Linux, how to emulate specific games and so on. There are a lot of interesting projects, such as ACO, which we deem worthy of fame and have thus included those in this repo.
-
-### Why GitLab over GitHub?
-
-Due to the recent change of ownership to GitHub, the open source project hosting service, to Microsoft, we have decided not to maintain the following repository on their server. The reasoning behind the following action could be explained by Microsoft's behaviour towards the open source community for the past decade and thus we concluded to refrain from using GitHub as the host of the this repository.
-
-### Why not just contribute to the Arch wiki?
-
-I am aware of the [Arch wiki / Gaming](https://wiki.archlinux.org/index.php/Gaming) page, but despite the Arch wiki having constant attention, it is not a place where people take the time and effort to look at it. I did contribute in the Arch wiki several times, but I then realised that not many people will look into it despite having this much attention, so I stopped contributing. [Here is an example in Reddit](https://www.reddit.com/r/linux_gaming/comments/fyuqc7/a_fantastic_amd_gpu_gui_software_for_linux/fn2723y?utm_source=share&utm_medium=web2x) of a person recently discovering CoreCtrl, when it was mentioned in the [Arch wiki](https://wiki.archlinux.org/index.php/AMDGPU#GUI_tools) a couple of months prior to the date of the release of the thread.
-
-#### Why not just promote it then?
-
-Because the Arch wiki has been promoted by many youtubers already, and it is also a meme for the epicc arch linux users btw xddd!1!11
-
-### Why not add Manjaro?
-
-Because we do not agree with Manjaro's practices and outcome. Those are the following:
-
-- **Developers**
-	- The Manjaro developers have done a lot of controversies. There is a brief summary that explains the lack of proper maintenance to the distribution:
-		- https://github.com/vizs/manjarno
-
-- **Security and Privacy**
-	- Manjaro **does not** have a security policy (like [SELinux](https://www.redhat.com/en/topics/linux/what-is-selinux)) enabled by default. The lack of a security policy brings to an [increased amount of kernel-level security vulnerabilities](https://www.cvedetails.com/product/47/Linux-Linux-Kernel.html?vendor_id=33). On top of that, the lack of a security policy can also decrease the privacy of the user, because packages will have the permissions to view the whole filesystem, resources and more.
-		- https://forum.manjaro.org/t/manjaro-why-you-have-no-selinux/128757
-	- Manjaro holds back packages for several weeks, **including security updates**, which makes security updates arrive a couple of weeks later. This can potentially decrease the security of a user's device.
-		- http://allanmcrae.com/2013/01/manjaro-linux-ignoring-security-for-stability/
-
-- **Instability and bugs that are non-existant in Arch**
-	- Manjaro has had a lot of issues with bugs and instability that were non-existant in Arch. One example to this is users had issues with Pipewire hogging all the RAM of their device:
-		- https://forum.manjaro.org/t/after-upgrade-no-sound-pipewire-100-cpu-load-system-freeze/131580
-		- https://forum.manjaro.org/t/troubleshooting-random-system-freeze/106554
-		- https://www.reddit.com/r/ManjaroLinux/comments/fpydtg/pipewire_process_consuming_almost_all_of_my_ram/
-
-- **Extras**
-	- In the Manjaro wiki, it is written clearly that you "Use the AUR at your own risk!". The issue with this is when using Pamac or Octopi, the users are a couple of clicks away to enabling the AUR, and none tell you about the disadvantages of the AUR.
-		- https://wiki.manjaro.org/index.php/Arch_User_Repository#Overview
-	- Manjaro's PKGBUILD repository **does not** show the latest versions. For example, the latest version of GNOME Shell released in Manjaro is `gnome-shell-3.36.*`, but the version provided in the repository is `gnome-shell-3.34.3`, which was three months ago of the day of this text (April 28, 2020).
-		- https://gitlab.manjaro.org/arch-packages/extra/gnome-shell/-/commits/packages/gnome-shell/repos/extra-x86_64/PKGBUILD
-
-**We** do not recommend Manjaro to the users, but we will not restrict you from using it. You are free to use anything you want.
-
+See [Q&AS.md](/Q&AS.md).
 
 ## Future plans
 

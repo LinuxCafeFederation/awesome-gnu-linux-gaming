@@ -209,7 +209,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Emulators
 
-[**taminaru / awesome-emulators-simulators**](https://github.com/taminaru/awesome-emulators-simulators#consoles) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
+[**taminaru / awesome-emulators-simulators**](https://github.com/taminaru/awesome-emulators-simulators) — A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
 
 [**`mesa_glthread=true` for OpenGL**](https://www.reddit.com/r/emulation/comments/gilg8b/mesa_drivers_use_mesa_glthreadtrue_when_using/) — Mesa drivers flag to enable multi-threading on the Mesa drivers.
 

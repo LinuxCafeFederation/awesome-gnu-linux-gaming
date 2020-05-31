@@ -108,6 +108,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Graphics cards
 
+[**Graphics drivers overview**](https://old.reddit.com/r/linux_gaming/comments/g8h5no/can_someone_clarify_the_situation_with_amd_drivers/foniza1/?context=3) — An overview of the graphical Linux drivers.
+
 ### AMD
 
 **Note: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**

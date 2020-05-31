@@ -110,6 +110,8 @@ This list does provide proprietary software, but they will be exclusively marked
 
 [**Graphics drivers overview**](https://old.reddit.com/r/linux_gaming/comments/g8h5no/can_someone_clarify_the_situation_with_amd_drivers/foniza1/?context=3) — An overview of the graphical Linux drivers.
 
+[**Shaders overview**](https://old.reddit.com/r/linux_gaming/comments/gtdifa/what_does_compiling_shaders_mean/fsazz2x/) — An overview of the shaders used in games in Linux.
+
 ### AMD
 
 **Note: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**

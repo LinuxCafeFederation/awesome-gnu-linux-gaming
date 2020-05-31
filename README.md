@@ -200,7 +200,7 @@ This list does provide proprietary software, but they will be exclusively marked
 [**DXVK**](https://github.com/doitsujin/dxvk) — A Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 - [**D9VK**](https://github.com/Joshua-Ashton/d9vk) — A Vulkan-based translation layer for Direct3D 9 which allows running 3D applications on Linux using Wine. It has now been merged with [DXVK](https://github.com/doitsujin/dxvk).
 
-[**wine-wayland**](https://github.com/varmd/wine-wayland) — A Vulkan-based translation layer for [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) to play in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). **(Arch derivatives only!)**
+[**wine-wayland**](https://github.com/varmd/wine-wayland) — A Vulkan-based translation layer for [DirectX 9](https://en.wikipedia.org/wiki/DirectX#DirectX_9) & [DirectX 11](https://en.wikipedia.org/wiki/DirectX#DirectX_11) to play in Wayland without the need of [X11](https://en.wikipedia.org/wiki/X_Window_System) or [XWayland](https://wayland.freedesktop.org/xserver.html). — **Only available in Arch-based distributions!**
 
 [**Proton**](https://github.com/ValveSoftware/Proton) — A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to play Windows games directly from Steam Linux.
 - [**Protontricks**](https://github.com/Matoking/protontricks) — Extension to [Winetricks](https://wiki.winehq.org/Winetricks) for Proton enabled games.

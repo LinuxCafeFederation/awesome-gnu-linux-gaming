@@ -36,7 +36,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Distributions
 
-~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](/Q&AS.md#why-not-add-manjaro).***
+~~[**Manjaro Linux**](https://manjaro.org/) — Based on [Arch Linux](https://www.archlinux.org/). Attempt from the Manjaro team to provide a GUI installer, as well as test packages before they are released.~~ **WARNING: see *[Why not add Manjaro?](Q&AS.md#why-not-add-manjaro).***
 
 [**Pop!_OS**](https://system76.com/pop) — Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
 
@@ -130,9 +130,9 @@ This list does provide proprietary software, but they will be exclusively marked
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
 
-[**TearFree**](/XORG.md#tearfree) — Enable tearing prevention using the hardware page flipping mechanism.
+[**TearFree**](XORG.md#tearfree) — Enable tearing prevention using the hardware page flipping mechanism.
 
-[**FreeSync**](/XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
+[**FreeSync**](XORG.md#freesync) — An  open source [Variable refresh rate](https://en.wikipedia.org/wiki/Variable_refresh_rate) technology developed by [AMD](https://en.wikipedia.org/wiki/Advanced_Micro_Devices) to eliminate screen tearing and reduce stuttering.
 
 **Others** — If you want to explore into the Xorg configuration options, you can look into:
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
@@ -244,16 +244,16 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ## Q&As
 
-See [Q&AS.md](/Q&AS.md).
+See [Q&AS.md](Q&AS.md).
 
 ## Future plans
 
-Everything we plan to add in the future in this page will be in [TODO.md](/TODO.md).
+Everything we plan to add in the future in this page will be in [TODO.md](TODO.md).
 
 
 ## Contributing
 
-See [CONTRIBUTING.md](/CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 ## Special thanks

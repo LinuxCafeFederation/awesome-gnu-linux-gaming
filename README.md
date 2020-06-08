@@ -114,7 +114,7 @@ This list does provide proprietary software, but they will be exclusively marked
 
 ### AMD
 
-**Note: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add AMDGPU-PRO or AMDVLK specific categories later.**
+**Note: this is only for the [AMDGPU](https://en.wikipedia.org/wiki/AMDGPU) drivers. We might add [AMDGPU-PRO](https://www.amd.com/en/support/kb/release-notes/rn-radpro-lin-16-40) or [AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) specific categories later.**
 
 [**ACO compiler**](https://wiki.archlinux.org/index.php/AMDGPU#ACO_compiler) — Open source shader compiler by [Valve Corporation](https://en.wikipedia.org/wiki/Valve_Corporation) to compete with the [LLVM compiler](http://llvm.org/), [AMDVLK drivers](https://github.com/GPUOpen-Drivers/AMDVLK) drivers and [Windows 10](https://en.wikipedia.org/wiki/Windows_10).
 

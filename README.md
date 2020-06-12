@@ -70,6 +70,8 @@ This list does provide proprietary software, but they will be exclusively marked
 [**libratbag**](https://github.com/libratbag/libratbag) — DBus daemon to configure input devices for gaming mice. — **WARNING: this utility will not work in the distributions listed in the following website: [Wikipedia: Linux distributions without systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd).**
 - [**Piper**](https://github.com/libratbag/piper) —  GTK+ front-end for [libratbag](https://github.com/libratbag/libratbag). — **WARNING: this utility will not work in the distributions listed in the following website: [Wikipedia: Linux distributions without systemd](https://en.wikipedia.org/wiki/Category:Linux_distributions_without_systemd).**
 
+[**logiops**](https://github.com/PixlOne/logiops) — Unofficial drivers for Logitech mice and keyboard.
+
 ### Overlays
 
 [**MangoHud**](https://github.com/flightlessmango/MangoHud) — A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. — [Video](https://www.youtube.com/watch?v=RbOY0TmArH0)

@@ -41,9 +41,6 @@ Based on [Ubuntu](https://ubuntu.com/). Comes with the [Cinnamon desktop](https:
 #### [**Fedora**](https://getfedora.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Community maintained distribution to provide the [upstream](https://en.wikipedia.org/wiki/Upstream_(software_development)) kernel in correlation with stable packages. Comes with performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
 
-#### [**Alpine Linux**](https://www.alpinelinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-Minimal, simple and secure binary based distribution aimed for performance.
-
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Lightweight and independent distribution to provide as much performance with as less time spent.
 

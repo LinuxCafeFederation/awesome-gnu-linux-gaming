@@ -63,7 +63,7 @@ A **systemd** daemon/lib to optimise Linux system performance on demand. — **W
 Overclocking software with the aesthetics based on AMD's Radeon Software Adrenalin from 2018.
 
 #### [**QMK**](https://qmk.fm/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-Keyboard firmware to customize key switches. Based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard). — [Video](https://www.youtube.com/watch?v=-imgglzDMdY)
+Keyboard firmware to customize key switches. Based on the [tmk_keyboard firmware](https://github.com/tmk/tmk_keyboard). — [Video](https://www.youtube.com/watch?v=-imgglzDMdY) - **WARNING: Flashing firmware is not a risk-free process and can result in a brick if anything goes wrong. Recovery ranges from time consuming to impossible and may even require buying extra tools.**
 
 #### [**Chiaki**](https://github.com/thestr4ng3r/chiaki) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Cross-platform client for PlayStation 4 Remote Play. — [Video](https://www.youtube.com/watch?v=w_9eyUgdaYg)

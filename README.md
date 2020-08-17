@@ -32,6 +32,8 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 ## Distributions
 
+### Beginner
+
 #### [**Pop!_OS**](https://system76.com/pop) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
 
@@ -41,8 +43,12 @@ Based on [Ubuntu](https://ubuntu.com/). Comes with the [Cinnamon desktop](https:
 #### [**Fedora**](https://getfedora.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Community maintained distribution to provide the [upstream](https://en.wikipedia.org/wiki/Upstream_(software_development)) kernel in correlation with stable packages. Comes with performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
 
+### Moderate
+
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Lightweight and independent distribution to provide as much performance with as less time spent.
+
+### Advanced
 
 #### [**Gentoo**](https://www.gentoo.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Minimal and secure source based distribution to maximise performance.

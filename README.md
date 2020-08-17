@@ -196,6 +196,9 @@ If you want to explore into the Xorg configuration options, you can look into:
 - **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
 
+#### [**GreenWithEnvy (GWE)**](https://github.com/leinardi/gwe) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+GWE is a GTK system utility designed to provide information, control the fans and overclock your NVIDIA video card and graphics processor. — **Only for Nvidia GPUs.**
+
 #### [**vibrantLinux**](https://github.com/zee-mzha/vibrantLinux) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Inspired by [vibranceGUI](https://github.com/juv/vibranceGUI) to port in Linux; utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **Only for Nvidia GPUs.**
 

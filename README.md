@@ -36,22 +36,32 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 #### [**Pop!_OS**](https://system76.com/pop) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Based on [Ubuntu](https://ubuntu.com/). Attempt from System76 to "de-Canonical-ise" Ubuntu, as well as some minor tweaks for gaming.
-
-#### [**Linux Mint**](https://www.linuxmint.com/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-Based on [Ubuntu](https://ubuntu.com/). Comes with the [Cinnamon desktop](https://en.wikipedia.org/wiki/Cinnamon_(desktop_environment)). Built for Windows users in mind, to facilitate switching from Windows to GNU/Linux thanks to its familiarity.
+- Full ootb support for Nvidia and AMD GPUs.
+- Better power management built-in.
+- All common gaming related applications are in Pop Shop, making it trivial to install everything needed to start gaming.
+- 64 bit Vulkan drivers are pre-installed, but Steam installation is modified to include them too just in case.
+- No snaps pre-installed and Pop!_Shop gives an option between .deb and flatpak for many applications.
 
 #### [**Fedora**](https://getfedora.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Community maintained distribution to provide the [upstream](https://en.wikipedia.org/wiki/Upstream_(software_development)) kernel in correlation with stable packages. Comes with performance tools pre-installed such as [gamemode](https://github.com/FeralInteractive/gamemode).
+- Built on bleeding edge/stable model, provides a very stable experience while staying fairly up-to-date on software.
+- In other words, when installing drivers and libraries, you get more recent versions compared to some other distros.
+- When installing [Steam](#steam), [GameMode](#gamemode) will be installed as well, to improve performance.
 
 ### Moderate
 
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Lightweight and independent distribution to provide as much performance with as less time spent.
+- Higher maintainance than Beginner distros, but comes with less pre-installed.
+- This provides a cleaner base, letting the user focus on installing only what they need. 
+- This can aid lower-end systems. 
 
 ### Advanced
 
 #### [**Gentoo**](https://www.gentoo.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Minimal and secure source based distribution to maximise performance.
+- High potential for increased stability and reduced latency of the system thanks to building everything from source and in turn adapting to user's hardware and needs per program basis.
+- Users with lower-end hardware may experience higher FPS in games as a result of said optimisations of the system, however this is not guaranteed and will depend highly on the hardware used. 
 
 
 ## Utilities

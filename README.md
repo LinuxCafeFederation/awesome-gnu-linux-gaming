@@ -179,6 +179,9 @@ Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that a
 #### [**amdvbflash**](https://github.com/patrickschur/amdvbflash) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/Tip-blue.svg)](https://img.shields.io/badge/Tip-blue.svg)
 Tool to flash AMD GPU's [vBIOS](https://en.wikipedia.org/wiki/Video_BIOS)es. — [Guide](https://andrealmeid.com/post/2020-05-01-vbios2/)
 
+#### [**radeon-profile**](https://github.com/marazmista/radeon-profile) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+Powerful app for tuning AMD GPUs.  Monitor and adjust fans, temperatures, usage, power, and core/memory clocks.  Configure overclocking profiles and set custom fan curves.  Watch for events (e.g. temp threshold reached, game launched) and change parameters automatically.  [Additional screenshots here.](https://imgur.com/a/DMRr9)
+
 ### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**

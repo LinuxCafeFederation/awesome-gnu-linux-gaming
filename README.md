@@ -48,6 +48,10 @@ Community maintained distribution to provide the [upstream](https://en.wikipedia
 - In other words, when installing drivers and libraries, you get more recent versions compared to some other distros.
 - When installing [Steam](#steam), [GameMode](#gamemode) will be installed as well, to improve performance.
 
+#### [**openSUSE Leap**](https://www.opensuse.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+- A step above SuSe Enterprise Linux which means it is stable.
+
+
 ### Moderate
 
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
@@ -55,6 +59,12 @@ Lightweight and independent distribution to provide as much performance with as 
 - Higher maintainance than Beginner distros, but comes with less pre-installed.
 - This provides a cleaner base, letting the user focus on installing only what they need. 
 - This can aid lower-end systems. 
+
+#### [**openSUSE Tumbleweed**](https://www.opensuse.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+
+- Rolling distro with [openQA](http://open.qa/)
+- Less likely to break than Arch due to testing
+- Great Nvidia support
 
 ### Advanced
 
@@ -295,6 +305,9 @@ A WINE implementation from [Valve Corporation](https://en.wikipedia.org/wiki/Val
 
 
 ## Emulators
+
+#### [**RetroArch**](https://www.retroarch.com/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+RetroArch is a frontend for emulators, game engines and media players.
 
 #### [**taminaru / awesome-emulators-simulators**](https://github.com/taminaru/awesome-emulators-simulators) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...

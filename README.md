@@ -145,7 +145,7 @@ A list of information about running games and related system configuration tips.
 #### [**VR Software Status**](https://gitlab.com/vr-on-linux/VR-on-Linux)
 Repository containing the status of Steam games working in Virtual Reality.
 
-#### [LibreGameWiki](https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming/issues/2)
+#### [LibreGameWiki](https://libregamewiki.org/)
 A wiki of free games and related topics started by Han Dao. 
 
 ## Processors

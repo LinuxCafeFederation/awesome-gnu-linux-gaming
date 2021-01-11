@@ -266,7 +266,6 @@ CLI client to launch games from the Epic Games Store.
 #### [**XanMod**](https://xanmod.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 A general-purpose Linux kernel aimed for performance and to provide more features.
 
-
 #### [**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg)
 A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Only available in Arch-based distributions!**
 

@@ -56,12 +56,6 @@ Lightweight and independent distribution to provide as much performance with as 
 - This provides a cleaner base, letting the user focus on installing only what they need. 
 - This can aid lower-end systems. 
 
-#### [**openSUSE Tumbleweed**](https://www.opensuse.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-
-- Rolling distro with [openQA](http://open.qa/).
-- Less likely to break than Arch due to testing.
-- Great Nvidia support.
-
 ### Advanced
 
 #### [**Gentoo**](https://www.gentoo.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)

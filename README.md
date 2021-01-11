@@ -62,9 +62,9 @@ Lightweight and independent distribution to provide as much performance with as 
 
 #### [**openSUSE Tumbleweed**](https://www.opensuse.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 
-- Rolling distro with [openQA](http://open.qa/)
-- Less likely to break than Arch due to testing
-- Great Nvidia support
+- Rolling distro with [openQA](http://open.qa/).
+- Less likely to break than Arch due to testing.
+- Great Nvidia support.
 
 ### Advanced
 
@@ -192,6 +192,9 @@ Tool to flash AMD GPU's [vBIOS](https://en.wikipedia.org/wiki/Video_BIOS)es. —
 #### [**radeon-profile**](https://github.com/marazmista/radeon-profile) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Powerful app for tuning AMD GPUs.  Monitor and adjust fans, temperatures, usage, power, and core/memory clocks.  Configure overclocking profiles and set custom fan curves.  Watch for events (e.g. temp threshold reached, game launched) and change parameters automatically.  [Additional screenshots here.](https://imgur.com/a/DMRr9)
 
+#### [**radeontop**](https://github.com/clbr/radeontop) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+Nice monitoring tool for your GPU utilization (works with both FOSS driver and Catalyst one).
+
 ### Xorg
 
 **Note: Xorg has had a lot of problems with the [xf86-video-amdgpu](https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu) drivers, one of them being screen tearing. It is advisable to create a custom `xorg.conf` file in order to remove some issues.**
@@ -207,6 +210,7 @@ If you want to explore into the Xorg configuration options, you can look into:
 - [AMDGPU[4]](https://manpages.debian.org/testing/xserver-xorg-video-amdgpu/amdgpu.4.en.html)
 - [xorg.conf[5]](https://manpages.debian.org/testing/xserver-xorg-core/xorg.conf.5.en.html)
 - [Arch wiki](https://wiki.archlinux.org/index.php/Xorg#Configuration)
+- [FreeBSD Handbook](https://www.freebsd.org/doc/handbook/x11.html)
 
 ### Nvidia
 
@@ -217,7 +221,9 @@ If you want to explore into the Xorg configuration options, you can look into:
 - **Debian** — https://wiki.debian.org/NvidiaGraphicsDrivers#Installation
 - **Arch Linux** — https://wiki.archlinux.org/index.php/NVIDIA#Installation
 - **Gentoo** — https://wiki.gentoo.org/wiki/NVIDIA/nvidia-drivers#Installation
+- **Fedora** — https://rpmfusion.org/Howto/NVIDIA
 - **Clear Linux** — https://docs.01.org/clearlinux/latest/tutorials/nvidia.html#installation
+- **OpenSUSE** — https://en.opensuse.org/SDB:NVIDIA_drivers
 
 #### [**GreenWithEnvy (GWE)**](https://github.com/leinardi/gwe) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 GWE is a GTK system utility designed to provide information, control the fans and overclock your NVIDIA video card and graphics processor. — **Only for Nvidia GPUs.**
@@ -258,7 +264,10 @@ CLI client to launch games from the Epic Games Store.
 ## Kernels
 
 #### [**XanMod**](https://xanmod.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-A general-purpose Linux kernel aimed for performance and to provide more features. 
+A general-purpose Linux kernel aimed for performance and to provide more features.
+
+#### [**Liquorix**](https://liquorix.net/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+A kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.
 
 #### [**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg)
 A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Only available in Arch-based distributions!**

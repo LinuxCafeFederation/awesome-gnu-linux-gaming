@@ -48,10 +48,6 @@ Community maintained distribution to provide the [upstream](https://en.wikipedia
 - In other words, when installing drivers and libraries, you get more recent versions compared to some other distros.
 - When installing [Steam](#steam), [GameMode](#gamemode) will be installed as well, to improve performance.
 
-#### [**openSUSE Leap**](https://www.opensuse.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-- A step above SuSe Enterprise Linux which means it is stable.
-
-
 ### Moderate
 
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)

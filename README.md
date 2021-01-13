@@ -255,6 +255,8 @@ Online-based game software program which allows players to keep their games up t
 
 #### [**Legendary**](https://github.com/derrod/legendary) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 CLI client to launch games from the Epic Games Store.
+- #### [**Heroic Games Launcher**](https://github.com/flavioislima/HeroicGamesLauncher) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+    This app is a Linux GUI for the tool Legendary.
 
 
 ## Kernels

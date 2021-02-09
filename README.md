@@ -265,7 +265,7 @@ CLI client to launch games from the Epic Games Store.
 A general-purpose Linux kernel aimed for performance and to provide more features.
 
 #### [**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg)
-A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Only available in Arch-based distributions!**
+A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Now available for non-Arch distributions!**
 
 #### [**gloriouseggroll / kernel**](https://copr.fedorainfracloud.org/coprs/gloriouseggroll/kernel/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Latest upstream Linux kernel in addition of the [TKG](https://github.com/Frogging-Family/linux-tkg/tree/9b8bb89cd3775f0090ee3bff8545ac73603e42cc) patchsets. — **Only available in Fedora!**
@@ -287,10 +287,13 @@ A compatibility layer capable of running Windows applications on several [POSIX]
 [**Winetricks**](https://wiki.winehq.org/Winetricks) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Helper script to download and install various redistributable runtime libraries needed to run some programs in Wine.
 
+[**Wine-tkg and Proton-tkg**](https://github.com/frogging-family/wine-tkg-git) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+Wine and Proton build scripts from Tk-Glitch with easy customization and a plethora of regression hotfixes, patches, game optimizations, and other goodness. This is the build system used for all Lutris wine builds.  
+
 ### WINE implementations
 
-#### [**VKD3D**](https://github.com/d3d12/vkd3d) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
-A Vulkan-based translation layer for Direct3D 12 which allows running 3D applications on Linux using Wine.
+#### [**vkd3d-proton**](https://github.com/HansKristian-Work/vkd3d-proton) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+A Vulkan-based translation layer for Direct3D 12 which allows running 3D applications on Linux using Wine. Valve's fork, included with Proton and recommended over upstream vkd3d.
 
 #### [**DXVK**](https://github.com/doitsujin/dxvk) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 A Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.

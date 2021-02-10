@@ -48,6 +48,15 @@ Community maintained distribution to provide the [upstream](https://en.wikipedia
 - In other words, when installing drivers and libraries, you get more recent versions compared to some other distros.
 - When installing [Steam](#steam), [GameMode](#gamemode) will be installed as well, to improve performance.
 
+#### [**Linux Mint**](https://linuxmint.com/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+The purpose of Linux Mint is to produce a modern, elegant and comfortable operating system which is both powerful and easy to use.
+- It works out of the box, with full multimedia support and is extremely easy to use.
+- It's community-driven. Users are encouraged to send feedback to the project so that their ideas can be used to improve Linux Mint.
+- Based on Debian and Ubuntu, it provides about 30,000 packages to install via apt.
+
+#### [**Ubuntu**](https://ubuntu.com/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+Ubuntu is the modern, open source operating system built on Linux for the enterprise server, desktop, cloud, and IoT.
+
 ### Moderate
 
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
@@ -101,6 +110,9 @@ DBus daemon to configure input devices for gaming mice. — **WARNING: this util
 #### [**logiops**](https://github.com/PixlOne/logiops) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Unofficial drivers for Logitech mice and keyboard.
 
+#### [**Steamtinkerlaunch**](https://github.com/frostworx/steamtinkerlaunch) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+SteamTinkerLaunch (short STL) is a Linux wrapper tool for use with the Steam client which allows you to easily customize start tools and options for games quickly.
+
 ### Overlays
 
 #### [**MangoHud**](https://github.com/flightlessmango/MangoHud) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
@@ -128,6 +140,8 @@ Website maintained by [WINE HQ](https://www.winehq.org/) to track reports and ra
 The home of Linux and SteamOS gaming. Covering Linux Gaming News, Linux Games, SteamOS, Indie Game Reviews and more.
 - #### [**GamingOnLinux wiki**](https://www.gamingonlinux.com/wiki/)
 	GamingOnLinux' official wiki focusing on various topics of gaming on Linux, such as games, engines, guides and more.
+- #### [**GamingOnLinux Sub-Reddit**](https://www.reddit.com/r/linux_gaming)
+    GamingOnLinux' official sub-reddit.
 
 #### [**Open Source Game Clones**](https://osgameclones.com/)
 A list of open source game alternatives to their proprietary counterparts.
@@ -181,9 +195,6 @@ CLI tool to adjust the core clock, memory and voltage of AMD graphics cards.
 
 #### [**vibrantLinux-AMD**](https://github.com/Scrumplex/vibrantLinux-AMD) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Fork of [vibrantLinux](https://github.com/zee-mzha/vibrantLinux); utility that automates NVIDIA's Digitial Vibrance Control and AMD's Saturation for games. — **Only for AMD GPUs.**
-
-#### [**amdvbflash**](https://github.com/patrickschur/amdvbflash) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg) [![Generic badge](https://img.shields.io/badge/Tip-blue.svg)](https://img.shields.io/badge/Tip-blue.svg)
-Tool to flash AMD GPU's [vBIOS](https://en.wikipedia.org/wiki/Video_BIOS)es. — [Guide](https://andrealmeid.com/post/2020-05-01-vbios2/)
 
 #### [**radeon-profile**](https://github.com/marazmista/radeon-profile) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Powerful app for tuning AMD GPUs.  Monitor and adjust fans, temperatures, usage, power, and core/memory clocks.  Configure overclocking profiles and set custom fan curves.  Watch for events (e.g. temp threshold reached, game launched) and change parameters automatically.  [Additional screenshots here.](https://imgur.com/a/DMRr9)

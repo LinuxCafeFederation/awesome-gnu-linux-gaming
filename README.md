@@ -12,6 +12,7 @@ This is a hobby project to improve the quality of gaming in Linux because it is 
 
 - [Distributions](#distributions)
 - [Utilities](#utilities)
+- [Websites](#websites)
 - [Processors](#processors)
 	- [AMD](#amd)
 	- [Intel](#intel)
@@ -386,7 +387,7 @@ Everything we plan to add in the future in this page will be in [TODO.md](TODO.m
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Linux to Linux Café
+## Links to Linux Café
 
 - [Linux Café Website](https://linuxcafefederation.github.io/LinuxCafe/)
 - [Linux Café Discord](https://discord.gg/YY4zrNR)
@@ -399,6 +400,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Special thanks go to:
 
+- [The lutris project](https://github.com/lutris) 
 - the [contributors](https://gitlab.com/TheMainGroup/awesome-gnu-linux-gaming/-/graphs/master) that have contributed in this project;
 - everyone that has suggested something to add, remove or fix;
 - the developers and writers that have created and contributed to the awesome projects that we have mentioned;

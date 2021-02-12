@@ -383,6 +383,9 @@ Reviews, benchmark comparisons of different GNU/Linux distributions and installa
 #### [**Intelligent Gaming**](https://www.youtube.com/channel/UCH4d4o0Otxa7BNYs5Z5UEjg/videos)
 Linux gaming tutorials and gameplay.
 
+#### [**Bero Tech**](https://www.youtube.com/channel/UC7MUgl7pf_OfZhWurZQS1oA)
+Linux tutorials, benchmarks gaming performance on Linux and does gaming benchmarks between Windows vs Linux. 
+
 
 ## Q&As
 

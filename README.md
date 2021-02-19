@@ -58,6 +58,13 @@ The purpose of Linux Mint is to produce a modern, elegant and comfortable operat
 #### [**Ubuntu**](https://ubuntu.com/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Ubuntu is the modern, open source operating system built on Linux for the enterprise server, desktop, cloud, and IoT.
 
+#### [**Solus**](https://getsol.us/home/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+A distribution made from scratch, Solus is a rolling distribution that is snappy, stable and easy to use.
+- Updates every Friday.
+- All common gaming applications are in the software center.
+- Nvidia drivers can be installed with a few clicks.
+- Completely independent from Arch and Debian.
+
 ### Moderate
 
 #### [**Arch Linux**](https://www.archlinux.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
@@ -125,7 +132,7 @@ A Vulkan post processing layer to enhance the visual graphics of games while bar
 #### [**GOverlay**](https://github.com/benjamimgois/goverlay) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 A Graphical UI to manage Linux overlays, such as [MangoHud](https://github.com/flightlessmango/MangoHud) and [vkBasalt](https://github.com/DadSchoorse/vkBasalt). — [Video](https://www.youtube.com/watch?v=-2OmhsGnsIk)
 
-#### [**DiscordOverlayLinux**](https://github.com/trigg/DiscordOverlayLinux) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+#### [**Discover**](https://github.com/trigg/Discover) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 Discord Overlay for Linux.
 
 ### Websites
@@ -276,6 +283,9 @@ CLI client to launch games from the Epic Games Store.
 #### [**XanMod**](https://xanmod.org/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
 A general-purpose Linux kernel aimed for performance and to provide more features.
 
+#### [**Liquorix**](https://liquorix.net/) [![Generic badge](https://img.shields.io/badge/FOSS-brightgreen.svg)](https://img.shields.io/badge/FOSS-brightgreen.svg)
+A Linux kernel designed to give the optimal performance for desktop, multimedia, and gaming workloads. **Only available in Debian/Ubuntu!**
+
 #### [**Tk-Glitch / PKGBUILDS / linux-tkg**](https://github.com/Tk-Glitch/PKGBUILDS/wiki/linux-tkg)
 A custom Linux kernel with various [patchsets](https://en.wikipedia.org/wiki/Patch_(Unix)) to improve gaming performance. — **Now available for non-Arch distributions!**
 
@@ -372,6 +382,9 @@ Reviews, benchmark comparisons of different GNU/Linux distributions and installa
 
 #### [**Intelligent Gaming**](https://www.youtube.com/channel/UCH4d4o0Otxa7BNYs5Z5UEjg/videos)
 Linux gaming tutorials and gameplay.
+
+#### [**Bero Tech**](https://www.youtube.com/channel/UC7MUgl7pf_OfZhWurZQS1oA)
+Linux tutorials, benchmarks gaming performance on Linux and does gaming benchmarks between Windows vs Linux. 
 
 
 ## Q&As
